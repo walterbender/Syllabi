@@ -48,68 +48,81 @@ GRADING
 
 SUGGESTED READING
 -----------------
-* Basic Color Terms, B. Berlin and P. Kay
-* Color Perception in Art, F. Birren
-* The Principles of Harmony and Contrasts of Colors, M. E. Chevreul
-* An Introduction to Color, R. Evans
-* Theory of Colours, J. W. von Goethe
-* Color for Philosophers, C. Larry Hardin
-* Eye, Brain, and Vision, D. Hubel
-* Color Vision, L. M. Hurvich
-* Color in Business, Science and Industry, D. B. Judd and G. Wyszecki
-* A Book of Colors, S. Kobyashi
-* Optiks, I. Newton
-* An Anthropologist from Mars, O. Sacks
-* Dimensional Color, L. Swirnoff
-* Foundations of Vision, B. A. Wandell
-* A Vision of the Brain, S. Zeki
+* *Basic Color Terms*, B. Berlin and P. Kay
+* *Color Perception in Art*, F. Birren
+* *The Principles of Harmony and Contrasts of Colors*, M. E. Chevreul
+* *An Introduction to Color*, R. Evans
+* *Theory of Colours*, J. W. von Goethe
+* *Color for Philosophers*, C. Larry Hardin
+* *Eye*, Brain, and Vision, D. Hubel
+* *Color Vision*, L. M. Hurvich
+* *Color in Business*, Science and Industry, D. B. Judd and G. Wyszecki
+* *A Book of Colors*, S. Kobyashi
+* *Optiks*, I. Newton
+* *An Anthropologist from Mars*, O. Sacks
+* *Dimensional Color*, L. Swirnoff
+* *Foundations of Vision*, B. A. Wandell
+* *A Vision of the Brain*, S. Zeki
 
 <a name="RADIATION">
 1. RADIATION AND APPEARANCE
+---------------------------
 </a>
 
-Color is colors, plural. &mdash;Josef Albers
+*Color is colors, plural.* &mdash;Josef Albers
 
 The engineer's or scientist's quantitative understanding of color is far removed from an artist's qualitative understanding of color. The former considers color as  something that is specified or measured in terms of metrics such as nanometers or just-noticeable-differences and speaks of color in terms of detection, discrimination, legibility, and contrast. However, for the artist or the poet, color is something to experience, not measure and quantify. Our current understanding of human color vision emanates from the traditions of both artists and scientists. Newton characterized light; Goethe contemplated its appearance.
 
 Goal
+----
 
 Explore the relationship between radiation and appearance.
-Experiment
+
+Experiment 1
+------------
 
 Characterize the appearance of and measure the intensity of the surface radiation of white, gray, and black targets both under room light and sun light. (Be sure to make note of angle of the illuminant source and the viewing angle. Are there specular components?) What do your results tell you about the relationship between radiation and appearance?
+
 Equipment
-
+---------
 light meter, black, gray, white, and color surfaces
+
 Questions to Consider
+---------------------
 
-What ways can one describe the stimulation captured by the visual sensors?
-What can isolated stimulation describe and not describe?
-What can stimulation relationships describe and not describe?
-What criteria would a model need to include in its definition to account for appearance?
-Is appearance an object attribute?
-How can one determine if people see the same appearance for the same sensory input?
-Does ``white'' only apply to surfaces?
-Are the conditions that establish white the same for establishing black?
-What guidance is available for conditions in which the sensory stimulus can not be reproduced?
-Homework
+* What ways can one describe the stimulation captured by the visual sensors?
+* What can isolated stimulation describe and not describe?
+* What can stimulation relationships describe and not describe?
+* What criteria would a model need to include in its definition to account for appearance?
+* Is appearance an object attribute?
+* How can one determine if people see the same appearance for the same sensory input?
+* Does *white* only apply to surfaces?
+* Are the conditions that establish white the same for establishing black?
+* What guidance is available for conditions in which the sensory stimulus can not be reproduced?
 
-We theorized that we could predict that relative perceived value could be calculated as follows:
-value = (surface reflection / ambient light),
+Experiment 2
+------------
+Characterize the appearance of and measure the chromaticity of a two-chamber room where one chamber is illuminated with red light and the other chamber is illumminated with green light. What do your results tell you about the relationship between spectral color and appearance?
 
-and that contrast could be calculated as follows:
+Equipment
+---------
+colorimeter, two-chamber box with a hole between the two chambers and independent light source for each chamber
 
-contrast = (light - dark) / (ambient light).
-
-Part 1: Using Java, create a 400x400-pixel applet. You can only use black and white (no Java gray). Create a graphical object that appears gray. The interface should be simple, click once and the object should appear light, click again and the object should appear dark. You can do this through any means except changing the color of the object itself. Try to be creative. The conditions you implement could involve size, texture, motion, etc... It is more important to experiment than to present a foolproof solution.
-
-Part 2: Given that these theories are true, what would you speculate about noise sensitivity as a function of lighting conditions?
-
-Part 3: A television with the power off appears to be a greenish-gray color . Explaination how you perceive black on television when the set is turned on?
+Questions to Consider
+---------------------
+* Does the sensation of color change over time?
+* Is it possible to look at the same stimulous with each eye and perceive it differently?
+* Can you come up with a model to explain how appearance might change due to context?
 
 Suggested Reading
+-----------------
+* Evans, pp. 125-129, 157-171
+* Hardin, pp. 24-25, 83
 
-Evans, pp. 125-129, 157-171
-Hardin, pp. 24-25, 83
-Raster Graphics Handbook, pp. 14-25
-Last Modified: November 08, 1997
+<a name="COLORSCIENCE">
+2. COLOR SCIENCE
+----------------
+</a>
+
+*There was gold paint, but Rembrandt didn't use it to paint a golden helmet.* &mdash;Wittgenstein
+
