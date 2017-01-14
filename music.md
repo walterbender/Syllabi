@@ -208,14 +208,7 @@ Suggested Reading
 ------------------------
 </a>
 
-*Imagine and realize* &mdash;J. Maeda
-
-*Critique and reflect* &mdash;W. Bender
+*Imagine and realize* &mdash;J. Maeda<br>*Critique and reflect* &mdash;W. Bender
 
 Questions to Consider
 ---------------------
-
-* How has color been used to enhance (or degrade) the experience?
-* Is the solution targeted to a specific audience or is it universal?
-* How do you know?
-* What is the cost/benefit of adding color to your project?

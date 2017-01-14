@@ -344,9 +344,7 @@ Systems Journal* **35**, 3/4 (1996).
 ------------------------
 </a>
 
-*Imagine and realize* &mdash;J. Maeda
-
-*Critique and reflect* &mdash;W. Bender
+*Imagine and realize* &mdash;J. Maeda<br>*Critique and reflect* &mdash;W. Bender
 
 Questions to Consider
 ---------------------
