@@ -126,12 +126,31 @@ Suggested Reading
 
 *There was gold paint, but Rembrandt didn't use it to paint a golden helmet.* &mdash;Wittgenstein
 
+Historically, color has been characterized by consideration of its application. Considerations have included the physics of color, the mechanisms of the human visual system (HVS), application to coding and reproduction, and application to design and interactivity. Color has been modeled as a physical, psychophysical, psychological, and metaphysical phenomenon. Through both clinical and neurophysiological studies, models of the HVS response to color have been developed, beginning with the detection of radiation in the retina and continuing as far as the visual cortex. 
+
+The discussion of color science is organized as a hierarchy. At the bottom level is the detection of points of electromagnetic radiation. At the next level is the appearance of radiation as an ensemble of points. At the top level are the inferences made from appearance. These inferences are the building blocks of color communication.
+
+Questions to Consider
+---------------------
+* What are the challenges to color reproduction?  
+* What happens when the print (yellow paper) and the display (blue LED) have to coexist?
+* How does the lack of consideration of context limit the utility of color models such as Pantone, Munsell, and NCS?
+
+Suggested Reading
+-----------------
+
 <a name="MINDEYE">
 3. THE MIND'S EYE
 -----------------
 </a>
 
 *There are no reddish greens.* &mdash;Larry Hardin
+
+Questions to Consider
+---------------------
+
+Suggested Reading
+-----------------
 
 <a name="ORDERSYSTEMS">
 4. ROBUST COMMUNICATION
@@ -140,12 +159,36 @@ Suggested Reading
 
 *Color, when once reduced to certain definite rules, can be taught like music.* &mdash;G. Seurat
 
+Although it is possible that one viewer's perception of color may be very different from another's, experimental evidence suggests that the relationships between colors are, in many respects, universal, and thus relatively free from individual and cultural influences. The "experience of color" can be described objectively, so that predictable visual sensations can be elicited by adjusting the relationships among colors. A model of color experience is described that is based on the types of interactions among colors. The model adjusts formal compositional attributes such as hue, value, chroma, and their contrasts, as well as size and proportion. Components such as these can be utilized to build a general architecture for adding guidance to interactive systems.
+
+Questions to Consider
+---------------------
+* How does color contribute to communication?
+* How is the visual message-processing system impaired by the inability to see color?
+* How is the ability to communicate visually affected both quantitatively and qualitatively? 
+
+Suggested Reading
+-----------------
+
 <a name="EXPRESSION">
 5. DELIBERATE EXPRESSION
 ------------------------
 </a>
 
 *Color demands a response.* &mdash;N. Jacobson
+
+For those of us with normal color vision, the vocabulary of color communication is something both innate and intuitive. We do not rely on prescriptions of color semantics or rules of color harmony to determine a response to color. Our response to gravity and our sense of balance are based on an internal "plumbline," not Newton's equations. Similarly, our response to visual sensations and our sense of dynamics and stress are inherent. It is this internal "color plumbline".  
+
+The word "expression" is used to describe the human response to an ensemble of color appearances. We have an internal psychophysical response that is initiated when viewing multiple external radiations. Although it is possible for one viewer's perception of color to be very different from another's, experimental evidence suggests that the relationships among internally generated colors are, in many respects, universal, and thus relatively free from individual and cultural influences. Examples of qualitative models of expression are Jacobson's Relative Harmony Quotient and Kobayashi's Scale of Colors. Examples of quantitative models are Moon and Spencer's Geometric Formulation of Harmony and Sivik and Hård's Semantic Dimensions.
+
+Questions to Consider
+---------------------
+* What are the factors that determine color experience?
+* To what extent is it possible to "grade" color experience?
+* How do cultural and personal preference impact color experience?
+
+Suggested Reading
+-----------------
 
 <a name="PROJECTS">
 6. FINAL PROJECT REVIEWS
@@ -156,3 +199,5 @@ Suggested Reading
 
 *Critique and reflect* &mdash;W. Bender
 
+Questions to Consider
+---------------------
