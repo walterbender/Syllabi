@@ -1,34 +1,34 @@
-Color For Designers
+COLOR FOR DESIGNERS
 ===================
 
 This course covers the technical aspects of color for use in practical applications of design. Color is discussed from three distinct points of view: human vision, visual processing, and digital displays. Topics include the production of color, physiology and psychophysiology of color, the sensation of color, color systems, coding and processing, color vision, rendering in graphics environments, color as an interface, semantics and aesthetics of color.
 
-INSTRUCTOR
+Instructor
 ----------
 
 Walter Bender (walter@miamicollegeofdesign.com)
 
-OBJECTIVE
+Objective
 ---------
 
 This course encourages students to experientially explore the relationships between sensory stimulus, color appearance, and the relationships of color appearance as a means to develop more effective color communication tools.
 
-APPROACH
+Approach
 --------
 
 To aid students in their pursuit, the course consists of hands on exploration of questions that point to the critical scientific and technological challenges of color and hands on attempt to pursue personal exploration of a model for color communication.
 
-COURSE ORGANIZATION
+Course Organization
 -------------------
 
 Generally each class will begin with discussion of research other people have done on the same topic as last week's exploration topic. This discussion may include visits by some of the researchers or by authors who have written on the subject. The intent is to encourage students to explore a subject before reading about it. This approach tends to avoid biasing interpretations of what might be going on and provides students with their own base of experience to which they can relate when reading research on the topic of interest. The second class activity will be an exploration of this week's class goal.
 
-REQUIREMENTS
+Requirements
 ------------
 
 Weekly programming assignments and reading, as well as an individual or group term project. Classes will consist of a weekly group experiment, brief lecture, and discussion. There will be occasional guest lectures by leading color researchers.
 
-COURSE OUTLINE
+Course Outline
 --------------
 
 1. [Radiation and Appearance](#RADIATION)
@@ -38,7 +38,7 @@ COURSE OUTLINE
 5. [Deliberate Expression](#EXPRESSION) (color and affect)
 6. [Project reviews](#PROJECTS)
 
-GRADING
+Grading
 -------
 50% of your grade is based on class participation in the experiential exploration of questions pointing to critical challenges.
 
@@ -46,7 +46,7 @@ GRADING
 
 25% of your grade is dependent upon weekly problems.
 
-SUGGESTED READING
+Suggested Reading
 -----------------
 * *Basic Color Terms*, B. Berlin and P. Kay
 * *Color Perception in Art*, F. Birren
@@ -125,4 +125,34 @@ Suggested Reading
 </a>
 
 *There was gold paint, but Rembrandt didn't use it to paint a golden helmet.* &mdash;Wittgenstein
+
+<a name="MINDEYE">
+3. THE MIND'S EYE
+-----------------
+</a>
+
+*There are no reddish greens.* &mdash;Larry Hardin
+
+<a name="ORDERSYSTEMS">
+4. ROBUST COMMUNICATION
+-----------------------
+</a>
+
+*Color, when once reduced to certain definite rules, can be taught like music.* &mdash;G. Seurat
+
+<a name="EXPRESSION">
+5. DELIBERATE EXPRESSION
+------------------------
+</a>
+
+*Color demands a response.* &mdash;N. Jacobson
+
+<a name="PROJECTS">
+6. FINAL PROJECT REVIEWS
+------------------------
+</a>
+
+*Imagine and realize* &mdash;J. Maeda
+
+*Critique and reflect* &mdash;W. Bender
 
