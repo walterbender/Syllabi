@@ -336,8 +336,8 @@ Questions to Consider
 Suggested Reading
 -----------------
 
-Jacobson and Bender, "Color as a Determined Communication", *IBM
-Systems Journal* **35**, 3/4 (1996).
+* Jacobson and Bender, "Color as a Determined Communication", *IBM
+  Systems Journal* **35**, 3/4 (1996).
 
 <a name="PROJECTS">
 6. FINAL PROJECT REVIEWS
