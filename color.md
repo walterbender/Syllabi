@@ -194,6 +194,7 @@ needed to match a stimulus.
 Questions to Consider
 ---------------------
 
+* What are some of the differences between Pantone and Munsell?
 * What are the challenges to color reproduction?  
 * What happens when the print (yellow paper) and the display (blue
   LED) have to coexist?
@@ -233,6 +234,7 @@ Find unique green.
 Questions to Consider
 ---------------------
 
+* What is the "Opponent Theory* and what are its implications?
 * Is unique green the same across the population.
 * What are the implications of this result?
 
