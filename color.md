@@ -176,16 +176,6 @@ Suggested Reading
 *There was gold paint, but Rembrandt didn't use it to paint a golden
  helmet.* &mdash;Wittgenstein
 
-Historically, color has been characterized by consideration of its
-application. Considerations have included the physics of color, the
-mechanisms of the human visual system (HVS), application to coding and
-reproduction, and application to design and interactivity. Color has
-been modeled as a physical, psychophysical, psychological, and
-metaphysical phenomenon. Through both clinical and neurophysiological
-studies, models of the HVS response to color have been developed,
-beginning with the detection of radiation in the retina and continuing
-as far as the visual cortex.
-
 The discussion of color science is organized as a hierarchy. At the
 bottom level is the detection of points of electromagnetic
 radiation. At the next level is the appearance of radiation as an
@@ -211,6 +201,11 @@ Questions to Consider
 Suggested Reading
 -----------------
 
+* A. Hard and L. Sivik, "NCS-Natural Color System: A Swedish Standard
+for Color Notation," *COLOR Research and Applications* **6**, No.3,
+129-138, John Wiley & Sons, Inc., New York (1982).
+* *Munsell Book of Colors*, Munsell Color Co., Baltimore, MD (1942).
+
 <a name="MINDEYE">
 3. THE MIND'S EYE
 -----------------
@@ -218,11 +213,49 @@ Suggested Reading
 
 *There are no reddish greens.* &mdash;Larry Hardin
 
+Historically, color has been characterized by consideration of its
+application. Considerations have included the physics of color, the
+mechanisms of the human visual system (HVS), application to coding and
+reproduction, and application to design and interactivity. Color has
+been modeled as a physical, psychophysical, psychological, and
+metaphysical phenomenon. Through both clinical and neurophysiological
+studies, models of the HVS response to color have been developed,
+beginning with the detection of radiation in the retina and continuing
+as far as the visual cortex.
+
+Experiment
+----------
+
+Find unique green.
+
 Questions to Consider
 ---------------------
 
+* Is unique green the same across the population.
+* What are the implications of this result?
+
+Experiment
+----------
+
+Modulate value and hue contrast across perspective images.
+
+Questions to Consider
+---------------------
+
+What is the impact of value and hue contrast on the perception of depth?
+
 Suggested Reading
 -----------------
+
+* S. Zeki, *A Vision of the Brain*, Blackwell Scientific Publications,
+  Oxford (1993).
+* D. H. Hubel, *Eye, Brain and Vision*, W. H. Freeman, New York (1988).
+* E. Adelson, "Perceptual Organization and the Judgment of
+  Brightness," *Science* **262**, 2042-2044 (1993).
+* E. H. Land, "The Retinex Theory of Color Vision," *Scientific
+  American* **237**, No.6, 108-128 (1977).
+* J. Y. Lettvin, P. Brou, T. R. Sciascia, and L. Linden, "The Colors
+of Things," *Scientific American* **246**, 84-91 (1986).
 
 <a name="ORDERSYSTEMS">
 4. ROBUST COMMUNICATION
@@ -296,6 +329,12 @@ Colors. Examples of quantitative models are Moon and Spencer's
 Geometric Formulation of Harmony and Sivik and Hård's Semantic
 Dimensions.
 
+Experiment
+----------
+
+Measure the interaction between hue contrast and chroma and the
+interaction between hue contrast and value contrast.
+
 Questions to Consider
 ---------------------
 
@@ -305,6 +344,9 @@ Questions to Consider
 
 Suggested Reading
 -----------------
+
+Jacobson and Bender, "Color as a Determined Communication", *IBM
+Systems Journal* **35**, 3/4 (1996).
 
 <a name="PROJECTS">
 6. FINAL PROJECT REVIEWS
