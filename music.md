@@ -27,16 +27,17 @@ Approach
 Course Organization
 -------------------
 
-Generally each class will begin with discussion of research other
-people have done on the same topic as last week's exploration
-topic. This discussion may include visits by some of the researchers
-or by authors who have written on the subject. The intent is to
-encourage students to explore a subject before reading about it. This
-approach tends to avoid biasing interpretations of what might be going
-on and provides students with their own base of experience to which
-they can relate when reading research on the topic of interest. The
-second class activity will be an exploration of this week's class
-goal.
+There will be two weekly meetings: (1) a discussion and experiment;
+and (2) a recitation for in-depth review of the material. Generally
+each class will begin with discussion of research other people have
+done on the same topic as last week's exploration topic. This
+discussion may include visits by some of the researchers or by authors
+who have written on the subject. The intent is to encourage students
+to explore a subject before reading about it. This approach tends to
+avoid biasing interpretations of what might be going on and provides
+students with their own base of experience to which they can relate
+when reading research on the topic of interest. The second class
+activity will be an exploration of this week's class goal.
 
 Requirements
 ------------
@@ -151,6 +152,14 @@ Suggested Reading
 Goal
 ----
 
+Sound is produced from vibrations in air that we can hear. The goal of
+this class is to explore different physical sources of vibrations and
+how they impact audio perception. We will explore pitch perception as
+it relates to frequency, amplitude as it relates to sound intensity,
+and the limits of the human ear. We will also explore different
+mechanisms for creating resonance and standing waves as they relate to
+music and musical instruments.
+
 Experiment
 ----------
 
@@ -162,6 +171,9 @@ Questions to Consider
 
 Suggested Reading
 -----------------
+
+* http://physics.info/sound/
+* http://www.phy.mtu.edu/~suits/Physicsofmusic.html
 
 <a name="MINDMUSIC">
 4. MIND AND MUSIC
@@ -183,6 +195,8 @@ Questions to Consider
 Suggested Reading
 -----------------
 
+* D. Deutsch, Music Perception, *Frontiers of Bioscience* (2007)
+
 <a name="INSTRUMENTATION">
 5. INSTRUMENTATION
 ------------------
@@ -190,6 +204,10 @@ Suggested Reading
 
 Goal
 ----
+
+The goal of this class is to explore the variety of electro-mechanical
+mechanisms available to directly create sound, e.g., a theramin, or to
+interface to a digital synthesizer.
 
 Experiment
 ----------
