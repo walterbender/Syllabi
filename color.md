@@ -1,4 +1,4 @@
-COLOR FOR DESIGNERS
+﻿COLOR FOR DESIGNERS
 ===================
 
 This course covers the technical aspects of color for use in practical
@@ -148,7 +148,7 @@ Experiment 2
 ------------
 Characterize the appearance of and measure the chromaticity of a
 two-chamber room where one chamber is illuminated with red light and
-the other chamber is illumminated with green light. What do your
+the other chamber is illuminated with green light. What do your
 results tell you about the relationship between spectral color and
 appearance?
 
@@ -160,7 +160,7 @@ independent light source for each chamber
 Questions to Consider
 ---------------------
 * Does the sensation of color change over time?
-* Is it possible to look at the same stimulous with each eye and
+* Is it possible to look at the same stimulus with each eye and
   perceive it differently?
 * Can you come up with a model to explain how appearance might change
   due to context?
@@ -189,7 +189,7 @@ Experiment
 ----------
 
 Using multiple spectral sources, determine how many basis colors are
-needed to match a stimulous.
+needed to match a stimulus.
 
 Questions to Consider
 ---------------------
@@ -267,10 +267,10 @@ of Things," *Scientific American* **246**, 84-91 (1986).
 *Color, when once reduced to certain definite rules, can be taught
  like music.* &mdash;G. Seurat
 
-Although it is possible that one viewer's perception of color may be
-very different from another's, experimental evidence suggests that the
-relationships between colors are, in many respects, universal, and
-thus relatively free from individual and cultural influences. The
+Although it is possible that perception of color of one viewer may be
+very different from that of another viewer, experimental evidence suggests
+that the relationships between colors are, in many respects, universal,
+and thus relatively free from individual and cultural influences. The
 "experience of color" can be described objectively, so that
 predictable visual sensations can be elicited by adjusting the
 relationships among colors. A model of color experience is described
@@ -284,7 +284,7 @@ Experiment
 ----------
 
 Use hue, chroma, and value contrast, along with shape, position, and
-size to grade quantitave, nominal, and ordinal data.
+size to grade quantitative, nominal, and ordinal data.
 
 Questions to Consider
 ---------------------
@@ -317,19 +317,6 @@ of balance are based on an internal "plumbline," not Newton's
 equations. Similarly, our response to visual sensations and our sense
 of dynamics and stress are inherent. It is this internal "color
 plumbline".
-
-The word "expression" is used to describe the human response to an
-ensemble of color appearances. We have an internal psychophysical
-response that is initiated when viewing multiple external
-radiations. Although it is possible for one viewer's perception of
-color to be very different from another's, experimental evidence
-suggests that the relationships among internally generated colors are,
-in many respects, universal, and thus relatively free from individual
-and cultural influences. Examples of qualitative models of expression
-are Jacobson's Relative Harmony Quotient and Kobayashi's Scale of
-Colors. Examples of quantitative models are Moon and Spencer's
-Geometric Formulation of Harmony and Sivik and Hård's Semantic
-Dimensions.
 
 Experiment
 ----------
