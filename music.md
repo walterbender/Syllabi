@@ -238,6 +238,7 @@ Questions to Consider
 Suggested Reading
 -----------------
 
+* S. Vercoe, *Moodtrack: practical methods for assembling emotion-driven music*, MS Thesis, MIT Media Lab (2006) [http://pubs.media.mit.edu/pubs/papers/scottyv-ms.pdf]
 * D. Deutsch, Music Perception, *Frontiers of Bioscience* (2007)
 * A. Trafton, "How the brain perceives rhythm", *MIT Brain and Cognitive Sciences News* (2017) [https://bcs.mit.edu/news-events/news/how-brain-perceives-rhythm]
 * M. Gonick, "Are musical tastes cultural or hardwired in the brain?, *MIT Brain and Cognitive Sciences News* (2016) [https://bcs.mit.edu/news-events/media/are-musical-tastes-cultural-or-hardwired-brain]
