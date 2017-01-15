@@ -80,6 +80,12 @@ you the opportunity to pursue something personally meaningful.
 Suggested Reading
 -----------------
 
+* Mazzola, G., Mannone, M., Pang, Y., O'Brien, M., Torunsky, N., *All About Music: The Complete Ontology: Realities, Semiotics, Communication, and Embodiment*, Springer (2016)
+* V. Lazzarini, S. Yi, J. ffitch, J. Heintz, Ø. Brandtsegg,
+  I. McCurdy, *Csound: A Sound and Music Computing System*, Springer,
+  (2016).
+* R. Boulanger (editor), *The Csound Book*, MIT Press (2000).
+
 <a name="MUSICBLOCKS">
 1. MUSIC BLOCKS
 ---------------
@@ -91,14 +97,23 @@ fundamental musical concepts in an integrative and fun way.
 Goal
 ----
 
+The goal of this class is to provide an introduction to music
+programming and to provide a common vocabulary for composing and
+listening to music.
+
 Experiment
 ----------
 
-Equipment
----------
+Use Music Blocks to establish a musical expectation and then violate
+that expectation.
 
 Questions to Consider
 ---------------------
+
+* How do you set an expectation with music?
+* Is the expectation universal?
+* How do you violate an expectation with music?
+* How can you apply this technique to design?
 
 Suggested Reading
 -----------------
@@ -114,44 +129,43 @@ Suggested Reading
 ---------
 </a>
 
-"Csound is a sound and music computing system which was originally
-developed by Barry Vercoe in 1985 at MIT Media Lab. Since the 90s, it
-has been developed by a group of core developers. A wider community of
-volunteers contribute examples, documentation, articles, and takes
-part in the Csound development with bug reports, feature requests and
-discussions with the core development team.
+Csound is a sound and music computing system that was originally
+developed by Barry Vercoe in 1985 at MIT Media Lab.
 
-"Although Csound has a strong tradition as a tool for composing
-electro-acoustic pieces, it is used by composers and musicians for any
-kind of music that can be made with the help of the computer. Csound
-has tradtionally being used in a non-interactive score driven context,
-but nowadays it is mostly used in in a real-time context. Csound can
-run on a host of different platforms incuding all major operating
-systems as well as Android and iOS. Csound can also be called through
-other programming languages such as Python, Lua, C/C++, Java, etc."
+Csound has a strong tradition as a tool for composing
+electro-acoustic pieces; it is also used by composers and musicians for any
+kind of music that can be made with the help of the computer.
+
+Csound has been used in both non-interactive score-driven contexts and
+a real-time contexts. Csound can run on a host of different platforms
+incuding all major operating systems as well as Android and iOS.
 
 (from http://csound.github.io)
 
 Goal
 ----
 
+The goal of this class is to introduce students to concepts such as
+unit generators, instrument models, compilers, etc. These concepts are
+at the core of music programming systems. The Csound library, which is
+the most technically and muscially advanced language for programming
+music is used as the medium for studying these concepts.
+
 Experiment
 ----------
 
-Equipment
----------
+Build a real-time interactive performance application using Csound.
 
 Questions to Consider
 ---------------------
+
+* How do digital instrument models differ from their analog equivalents?
+* What are the constraints on real-time interactive music generation?
 
 Suggested Reading
 -----------------
 
 * *The Canonical Csound Reference Manual*, http://csound.github.io/docs/manual/index.html
-* V. Lazzarini, S. Yi, J. ffitch, J. Heintz, Ø. Brandtsegg,
-  I. McCurdy, *Csound: A Sound and Music Computing System*, Springer,
-  (2016).
-* R. Boulanger (editor), *The Csound Book*, MIT Press (2000).
 
 <a name="PHYSICS">
 3. THE PHYSICS OF SOUND
@@ -172,11 +186,15 @@ music and musical instruments.
 Experiment
 ----------
 
-Equipment
----------
+Build a flute and a two-string acoustic resonator.
 
 Questions to Consider
 ---------------------
+
+* How does the position of the holes impact the tuning of the flute?
+* How does the shape of the barrel impact the sound of the flute?
+* How does the shape of the resonator impact the quality of the sound?
+* How can the two strings be tuned differently?
 
 Suggested Reading
 -----------------
@@ -193,20 +211,31 @@ Suggested Reading
 Goal
 ----
 
+The goal of this class is to explore the relationship between
+acoustics and perception. Students will build upon their understanding
+of the physics of sound in order to begin to understand how the
+perception of sound can be interpreted as music in the mind.
+
 Experiment
 ----------
 
-Equipment
----------
+Using Music Blocks, generate a series of rhythms, with integral and
+non-integral proportions. Using the techniques developed by Jacoby
+(described by Trafton), measure the biases for musical rhythm of your
+classmates.
 
 Questions to Consider
 ---------------------
+
+* What is a prior and how do priors impact our perception of music?
+* What is the relationship between the physical reality of music and
+  its semiotics, i.e., its expressive character?
 
 Suggested Reading
 -----------------
 
 * D. Deutsch, Music Perception, *Frontiers of Bioscience* (2007)
-* A. Trafton, "How the brain perceived rhythm",  MIT Brain and Cognitive Sciences (2017) [https://bcs.mit.edu/news-events/news/how-brain-perceives-rhythm]
+* A. Trafton, "How the brain perceives rhythm", MIT Brain and Cognitive Sciences (2017) [https://bcs.mit.edu/news-events/news/how-brain-perceives-rhythm]
 * M. Gonick, "Are musical tastes cultural or hardwired in the brain?  MIT Brain and Cognitive Sciences (2016) [https://bcs.mit.edu/news-events/media/are-musical-tastes-cultural-or-hardwired-brain]
 * A. Trafton, "Why we like music", MIT Brain and Cognitive Sciences (2015) [https://bcs.mit.edu/news-events/news/why-we-music-we-do]
 * A. Trafton, "Music in the brain", MIT Brain and Cognitive Sciences (2015) [https://bcs.mit.edu/news-events/news/music-brain]
