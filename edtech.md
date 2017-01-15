@@ -189,6 +189,7 @@ Questions to Consider
 ---------------------
 
 * How does Sugar go "beyond black boxes"?
+* Does it matter that learners and teachers contribute code to Sugar?
 * How does Sugar stike a balance between control and autonomy?
 
 Suggested Reading
