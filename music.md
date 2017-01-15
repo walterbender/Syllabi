@@ -19,10 +19,19 @@ Walter Bender (walter@miamicollegeofdesign.com)
 Objective
 ---------
 
+The objective of this course is to give students sufficient
+scaffolding in the physics of sound, acoustics, psychoacoustics, music
+theory, and analog and digital audio processing such that they can
+credibly and deliberately incorporate music into the designs.
 
 Approach
 --------
 
+To aid students in their pursuit, the course consists of hands on
+exploration of questions that point to the critical scientific and
+technological challenges of sound and music and hands on attempt to
+pursue personal exploration of a theory and model for music as a tool
+for communication.
 
 Course Organization
 -------------------
@@ -174,6 +183,7 @@ Suggested Reading
 
 * http://physics.info/sound/
 * http://www.phy.mtu.edu/~suits/Physicsofmusic.html
+* http://www.indiana.edu/~emusic/etext/acoustics/chapter1_intro.shtml
 
 <a name="MINDMUSIC">
 4. MIND AND MUSIC
@@ -196,6 +206,11 @@ Suggested Reading
 -----------------
 
 * D. Deutsch, Music Perception, *Frontiers of Bioscience* (2007)
+* A. Trafton, "How the brain perceived rhythm",  MIT Brain and Cognitive Sciences (2017) [https://bcs.mit.edu/news-events/news/how-brain-perceives-rhythm]
+* M. Gonick, "Are musical tastes cultural or hardwired in the brain?  MIT Brain and Cognitive Sciences (2016) [https://bcs.mit.edu/news-events/media/are-musical-tastes-cultural-or-hardwired-brain]
+* A. Trafton, "Why we like music", MIT Brain and Cognitive Sciences (2015) [https://bcs.mit.edu/news-events/news/why-we-music-we-do]
+* A. Trafton, "Music in the brain", MIT Brain and Cognitive Sciences (2015) [https://bcs.mit.edu/news-events/news/music-brain]
+* 
 
 <a name="INSTRUMENTATION">
 5. INSTRUMENTATION
