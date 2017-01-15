@@ -9,6 +9,8 @@ a digit on a phone, to the in-your-face call to action of an editorial
 or campaign poster. Graphic design is a power tool. Graphic designers
 skillfully utilize this tool to communicate, inspire and motivate.
 
+<img src='https://rawgithub.com/walterbender/Syllabi/master/logo.jpg'/>
+
 Instructor
 ----------
 
