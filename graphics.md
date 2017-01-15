@@ -82,6 +82,7 @@ Suggested Readings
 * P. Rand, *A Designer’s Art*,
 * J. Muller-Brockmann, *Grid Systems in Graphic Design*,
 * J. Albers, *Interaction of Color*, 
+* R. Arnheim, *Art and Visual Perception*, U. California Press (2004).
 * aisleone.net: An inspirational resource focused on graphic design,
   typography, grid systems, minimalism and modernism.
 * itsnicethat.com: survey of contemporary design and design culture.
@@ -114,7 +115,7 @@ Assignment: Personal Business Card, Due at the beginning of Session 2
 ------------------------------------
 </a>
 
-* management, grid, form, image, color, and texture.
+* Management, grid, form, image, color, and texture.
 * Discuss the design process.
 
 <a name="CONTINUITY">
