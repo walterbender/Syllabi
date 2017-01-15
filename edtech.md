@@ -205,6 +205,23 @@ Suggested Reading
 -------------------------
 </a>
 
+Goal
+----
+
+The goal of educational technology is to get into the hands of
+learners and this inevitably involves some human-subject research. It
+is important that students understand the process by which they can
+engage in research involving humans as experimental subjects and the
+specifics regarding informed consent of minors.
+
+The goal of this class is provide training in social, behavioral, and
+educational human-subject research protocols such that they are
+prepared to submit proposals to the institute's review board.
+
+Suggested Reading
+-----------------
+
+* https://humansubjects.nih.gov/requirement-education
 
 <a name="PROJECTS">
 6. FINAL PROJECT REVIEWS
