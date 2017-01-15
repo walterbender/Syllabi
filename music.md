@@ -21,7 +21,7 @@ Objective
 ---------
 
 The objective of this course is to give students sufficient
-scaffolding in the physics of sound, acoustics, psychoacoustics, music
+scaffolding in the physics of sound, acoustics, psycho-acoustics, music
 theory, and analog and digital audio processing such that they can
 credibly and deliberately incorporate music into the designs.
 
@@ -139,7 +139,7 @@ kind of music that can be made with the help of the computer.
 
 Csound has been used in both non-interactive score-driven contexts and
 a real-time contexts. Csound can run on a host of different platforms
-incuding all major operating systems as well as Android and iOS.
+including all major operating systems as well as Android and iOS.
 
 (from http://csound.github.io)
 
@@ -149,7 +149,7 @@ Goal
 The goal of this class is to introduce students to concepts such as
 unit generators, instrument models, compilers, etc. These concepts are
 at the core of music programming systems. The Csound library, which is
-the most technically and muscially advanced language for programming
+the most technically and musically advanced language for programming
 music is used as the medium for studying these concepts.
 
 Experiment
@@ -256,7 +256,7 @@ Goal
 The goal of this class is to explore the variety of electro-mechanical
 mechanisms available to directly create sound, e.g., a theramin, or to
 interface to a digital synthesizer. Students will explore interactive
-models of voice and instruments in realtime musical performance.
+models of voice and instruments in real-time musical performance.
 
 Questions to Consider
 ---------------------
