@@ -9,8 +9,7 @@ color, the sensation of color, color systems, coding and processing,
 color vision, rendering in graphics environments, color as an
 interface, semantics and aesthetics of color.
 
-<img src='https://rawgithub.com/walterbender/Syllabi/master/dimensions-of-color.png'/>
-Copyright Walter Bender 1996
+<img src='https://rawgithub.com/walterbender/Syllabi/master/dimensions-of-color.png'/><br>Copyright CC-By Walter Bender 1996
 
 Instructor
 ----------
