@@ -188,7 +188,8 @@ collaboration, and reflection.
 Questions to Consider
 ---------------------
 
-
+* How does Sugar go "beyond black boxes"?
+* How does Sugar stike a balance between control and autonomy?
 
 Suggested Reading
 -----------------
