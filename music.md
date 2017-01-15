@@ -1,7 +1,8 @@
-﻿PROGRAMMING MUSIC
-=================
+﻿MUSIC, MIND, AND MACHINE
+========================
 
-This course covers the technical aspects of digital music for use in
+Based on a course once offered by digital music pioneer Barry Vercoe,
+this course covers the technical aspects of digital music for use in
 practical applications. Topics include the software libraries for the
 production of music and their use in applications and
 instrumentation. Students will become acquainted with digital music
@@ -214,7 +215,10 @@ Goal
 The goal of this class is to explore the relationship between
 acoustics and perception. Students will build upon their understanding
 of the physics of sound in order to begin to understand how the
-perception of sound can be interpreted as music in the mind.
+perception of sound can be interpreted as music in the mind.  They
+will explore the pathways from detection of frequency, intensity, and
+spectrum, to the development of their perceptual correlates as pitch,
+loudness and timbre.
 
 Experiment
 ----------
@@ -251,16 +255,15 @@ Goal
 
 The goal of this class is to explore the variety of electro-mechanical
 mechanisms available to directly create sound, e.g., a theramin, or to
-interface to a digital synthesizer.
-
-Experiment
-----------
-
-Equipment
----------
+interface to a digital synthesizer. Students will explore interactive
+models of voice and instruments in realtime musical performance.
 
 Questions to Consider
 ---------------------
+
+* How does your choice of instrumentation impact the expressive
+  quality of your music?
+* How does your instrumentation differ from traditional analog solutions?
 
 Suggested Reading
 -----------------
@@ -274,3 +277,8 @@ Suggested Reading
 
 Questions to Consider
 ---------------------
+
+* How has music been used to enhance (or degrade) the experience?
+* Is the solution targeted to a specific audience or is it universal?
+* How do you know?
+* What is the cost/benefit of adding music to your project?
