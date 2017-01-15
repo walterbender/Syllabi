@@ -1,6 +1,8 @@
 ﻿LEARNING-CENTRIC DESIGN
 =======================
 
+<img src='https://rawgithub.com/walterbender/Syllabi/master/nepal.jpg'/>
+
 Instructor
 ----------
 
