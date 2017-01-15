@@ -168,10 +168,22 @@ Suggested Reading
 --------------------
 </a>
 
+“We're too concentrated on having our children learn the answers. I
+would teach them how to ask questions&mdash;because that's how you
+learn.” &mdash;David McCullough
+
 Goal
 ----
 
+Sugar is the software orginially developed for the One Laptop per
+Child project. The goal behind Sugar was (and is) to replace
+interaction between children and rigidly defined electronic
+educational materials with a set of tools that encourage creativity
+and enable even very young children to program and modify those tools.
 
+The goal of this class is to introduce the Sugar Learning Platform and
+its collection of activities for exploration, construction,
+collaboration, and reflection.
 
 Questions to Consider
 ---------------------
