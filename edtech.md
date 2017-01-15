@@ -54,7 +54,6 @@ Suggested Reading
 * P. Freire, *Pedagogy of the Oppressed*, Bloomsbury (1968).
 * S. Papert, *Mindstorms: Children, Computers, and Powerful Ideas*, Basic Books (1980).
 * S. Papert, *The Children's Machine: Rethinking School in the Age of the Computer*, Basic Books (1993).
-* W. Bender, C. Kane, J. Cornish, N. Donahue, *Learning to Change the World*, Palgrave (2012).
 
 <a name="CONSTRUCTIONISM">
 1. CONSTRUCTIONISM
@@ -149,6 +148,9 @@ spotted, all while having fun. Later versions had a turtle­shaped
 on­screen cursor, which could be given instructions for movement and
 could produce vector graphics when given instructions to draw.
 
+In this class, students will get hands-on experience with a
+programmable robot and use it to develop a learning experience.
+
 Questions to Consider
 ---------------------
 
@@ -158,13 +160,28 @@ Questions to Consider
 Suggested Reading
 -----------------
 
-* Fred Martin's book
-* Josh Burker's book
+* F. Martin, *Robotic Explorations: A Hands-On Introduction to Engineering*, Prentice-Hall (1980).
+* J. Burker, *The Invent To Learn Guide To Fun*, Constructing Modern Knowledge Press (2015),
 
 <a name="SUGAR">
 4. THE SUGAR DESKTOP
 --------------------
 </a>
+
+Goal
+----
+
+
+
+Questions to Consider
+---------------------
+
+
+
+Suggested Reading
+-----------------
+
+* W. Bender, C. Kane, J. Cornish, N. Donahue, *Learning to Change the World*, Palgrave (2012).
 
 <a name="COUHES">
 5. HUMAN SUBJECT RESEARCH
