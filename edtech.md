@@ -23,12 +23,11 @@ Constructionist Learning by engaging in Constructionist Learning.
 
 Course Organization
 -------------------
-Each week, different tools of proven benefit will be presented
 
-
-Requirements
-------------
-
+Throughout the course, students will be working on an
+educational-technology project of their own choosing. Each week,
+different tools from the Constructionist toolkit will be presented. A
+discussion will ensue.
 
 Course Outline
 --------------
@@ -45,11 +44,9 @@ Grading
 50% of your grade is based on class participation in the experiential
 exploration of questions pointing to critical challenges.
 
-25% of your grade will be for a project that might add insight to an
+50% of your grade will be for a project that might add insight to an
 effective color model with stated objectives. The intent is to offer
 you the opportunity to pursue something personally meaningful.
-
-25% of your grade is dependent upon weekly problems.
 
 Suggested Reading
 -----------------
@@ -71,10 +68,32 @@ evaluate, draw conclusions&mdash;in short to learn&mdash;all by
 themselves. It is this very drive...that is squelched by our current
 educational system.” &mdash;Seymour Papert
 
+Goal
+----
+
+The goal of this class is to impart upon the students the underlying
+tenets of Constructionist Learning. Rather than instructing, telling,
+or showing the students what Constructionism is, students will break
+into small groups and teach each other some indivudual skill.
+
+Questions to Consider
+---------------------
+
+* Is "show, don't tell" different from traditional instruction?
+* When engaging in your teaching experience, in what ways were your
+  students contructing, hypothesizing, exploting, experimenting,
+  evaluating, and drawing conclusions?
+* How did you ensure that the students were learning?
+
 <a name="LOGO">
 2. LOGO: A PROGRAMMING LANGUAGE FOR CHILDREN
 --------------------------------------------
 </a>
+
+Goal
+----
+
+Logo is a programming language...
 
 <a name="ROBOTICS">
 3. LOGO ROBOTICS
