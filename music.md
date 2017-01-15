@@ -243,7 +243,6 @@ Suggested Reading
 * M. Gonick, "Are musical tastes cultural or hardwired in the brain?, *MIT Brain and Cognitive Sciences News* (2016) [https://bcs.mit.edu/news-events/media/are-musical-tastes-cultural-or-hardwired-brain]
 * A. Trafton, "Why we like music", *MIT Brain and Cognitive Sciences New* (2015) [https://bcs.mit.edu/news-events/news/why-we-music-we-do]
 * A. Trafton, "Music in the brain", *MIT Brain and Cognitive Sciences News* (2015) [https://bcs.mit.edu/news-events/news/music-brain]
-* 
 
 <a name="INSTRUMENTATION">
 5. INSTRUMENTATION
