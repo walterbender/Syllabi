@@ -33,12 +33,13 @@ solutions.
 Course Organization
 -------------------
 
-Each semester, the class will visit an institution or cultural site
-that will serve as the client for an inclusive graphic design
-exploration. Exercises in this course will include: historical and
-contemporary perspectives on graphic design, typographic studies, logo
-and brand development, creating design systems, small and large format
-layout construction, display, tour guide and way-finding.
+Each time this course is offered, the class will visit a local
+institution or cultural site that will serve as the client for an
+inclusive graphic design exploration. Exercises in this course will
+include: historical and contemporary perspectives on graphic design,
+typographic studies, logo and brand development, creating design
+systems, small and large format layout construction, display, tour
+guide and way-finding.
 
 Course Goals
 ------------
