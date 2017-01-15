@@ -90,19 +90,76 @@ Questions to Consider
 --------------------------------------------
 </a>
 
+Logo enables children to “use computers to manipulate things more
+familiar than the then-prevalent numbers and equations.”
+&mdash;F. Martin
+
 Goal
 ----
 
-Logo is a programming language...
+Logo is the first computer programming language designed for
+children. Papert and his collaborators at BBN aimed to create a
+program language with a “low floor” and a “high ceiling.” In other
+words, a language that would make it easy for a novice programmer—such
+as a child—to get started writing programs, but that also had the
+power and the “sky is the limit” capability to be useful to an
+experienced programmer. The goal of this class is to introduce the
+students to Logo programming and set them on the path to reaching
+towards the high ceiling of programming.
+
+Tools
+-----
+
+The Turtle Blocks programming language will be used as a
+representative and readily available Logo platform.
+
+Questions to Consider
+---------------------
+
+* What are the practical limitations to a block-based programming
+  language such as Turtle Blocks?
+* Why is it (or isn't it) important that Turtle Blocks is Free/Libre Software?
+* What has changed in the 45 years since Papert and Solomon published
+  "20 things to do with a computer"?
+
+Suggested Reading
+-----------------
+
+* S. Papert, C. Solomon, "20 things to do with a computer", *MIT AI
+  Memo* #248 (1971).
 
 <a name="ROBOTICS">
 3. LOGO ROBOTICS
 ----------------
 </a>
 
-Logo enables children to “use computers to manipulate things more
-familiar than the then-prevalent numbers and equations.”
-&mdash;F. Martin
+Goal
+----
+
+In its early days, Logo was used to control a simple robot, known as
+the “Turtleturtle”. The original Logo turtle, invented by Paul
+Wexelblat at BBN, was known as Irving. He had touch sensors and could
+move forward and backward, rotate, and ring his bell. Children would
+type commands such as FORWARD 50 to make Irving go forward 50 steps,
+or RIGHT 90 to make him turn right ninety degrees. Irving carried a
+pen, so children could make drawings on a piece of paper. By using
+Irving, children engaged in basic problem solving, with Irving giving
+immediate, non­written feedback so that problems (bugs) could be
+spotted, all while having fun. Later versions had a turtle­shaped
+on­screen cursor, which could be given instructions for movement and
+could produce vector graphics when given instructions to draw.
+
+Questions to Consider
+---------------------
+
+* How would you enhance the capabilities of Irving were you to build a
+  Logo robot today?
+
+Suggested Reading
+-----------------
+
+* Fred Martin's book
+* Josh Burker's book
 
 <a name="SUGAR">
 4. THE SUGAR DESKTOP
