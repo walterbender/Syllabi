@@ -4,7 +4,7 @@
 Instructor
 ----------
 
-Walter Bender (walter@miamicollegeofdesign.com)
+Walter Bender (walter@miamicollegeofdesign.com)<br>
 Ann Valente (ann@miamicollegeofdesign.com)
 
 Objective
@@ -16,7 +16,7 @@ and the principles of "learning-centric" design to students.
 Approach
 --------
 
-The approach we take is to emerse the student into an authentic
+The approach we take is to immerse the student into an authentic
 problem-solving scenario in which they apply the principles of
 Constructionist Learning to their own pursuits. Students learn about
 Constructionist Learning by engaging in Constructionist Learning.
@@ -34,8 +34,8 @@ Course Outline
 
 1. [Constructionism](#CONSTRUCTIONISM)
 2. [One Laptop per Child and the Sugar Desktop](#SUGAR)
-3. 
-4.
+3. [TBD](#3)
+4. [TBD](#4)
 5. [Human Subjects](#COUHES)
 6. [Project reviews](#PROJECTS)
 
@@ -53,7 +53,7 @@ you the opportunity to pursue something personally meaningful.
 Suggested Reading
 -----------------
 
-* P. Freire, *Pedagogy of the Oppressed*,
+* P. Freire, *Pedagogy of the Oppressed*, Bloomsbury (1968).
 * S. Papert, *Mindstorms: Children, Computers, and Powerful Ideas*, Basic Books (1980).
 * S. Papert, *The Children's Machine: Rethinking School in the Age of the Computer*, Basic Books (1993).
 * W. Bender, C. Kane, J. Cornish, N. Donahue, *Learning to Change the World*, Palgrave (2012).
@@ -81,7 +81,7 @@ squelched by our current educational system.” &mdash;Seymour Papert
 </a>
 
 Logo enables children to “use computers to manipulate things more
-familiar than the then­prevalent numbers and equations.”
+familiar than the then-prevalent numbers and equations.”
 &mdash;F. Martin
 
 <a name="4">
