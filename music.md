@@ -1,7 +1,7 @@
 ﻿MUSIC, MIND, AND MACHINE
 ========================
 
-Based on a course once offered by digital music pioneer Barry Vercoe,
+Based on a course once offered by digital-music pioneer Barry Vercoe,
 this course covers the technical aspects of digital music for use in
 practical applications. Topics include the software libraries for the
 production of music and their use in applications and
