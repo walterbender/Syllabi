@@ -2,6 +2,7 @@
 =======================
 
 <img src='https://rawgithub.com/walterbender/Syllabi/master/nepal.jpg'/>
+Copyright Walter Bender 2014
 
 Instructor
 ----------

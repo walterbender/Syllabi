@@ -10,6 +10,7 @@ color vision, rendering in graphics environments, color as an
 interface, semantics and aesthetics of color.
 
 <img src='https://rawgithub.com/walterbender/Syllabi/master/dimensions-of-color.png'/>
+Copyright Walter Bender 1996
 
 Instructor
 ----------
