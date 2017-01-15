@@ -117,7 +117,7 @@ Questions to Consider
 
 * What are the practical limitations to a block-based programming
   language such as Turtle Blocks?
-* Why is it (or isn't it) important that Turtle Blocks is Free/Libre Software?
+* How do we assess the learning?
 * What has changed in the 45 years since Papert and Solomon published
   "20 things to do with a computer"?
 
@@ -126,6 +126,8 @@ Suggested Reading
 
 * S. Papert, C. Solomon, "20 things to do with a computer", *MIT AI
   Memo* #248 (1971).
+* Urrea, C. and Bender, W. "Making Learning Visible", *Mind, Brain,
+  and Education* (2012).
 
 <a name="ROBOTICS">
 3. LOGO ROBOTICS
@@ -189,6 +191,7 @@ Questions to Consider
 ---------------------
 
 * How does Sugar go "beyond black boxes"?
+* Why is it (or isn't it) important that Sugar is Free/Libre Software?
 * Does it matter that learners and teachers contribute code to Sugar?
 * How does Sugar stike a balance between control and autonomy?
 
