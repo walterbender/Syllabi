@@ -23,6 +23,7 @@ Constructionist Learning by engaging in Constructionist Learning.
 
 Course Organization
 -------------------
+Each week, different tools of proven benefit will be presented
 
 
 Requirements
@@ -33,9 +34,9 @@ Course Outline
 --------------
 
 1. [Constructionism](#CONSTRUCTIONISM)
-2. [One Laptop per Child and the Sugar Desktop](#SUGAR)
-3. [TBD](#3)
-4. [TBD](#4)
+2. [Logo](#LOGO)
+3. [Logo Robotics](#ROBOTICS)
+4. [The Sugar Desktop](#SUGAR)
 5. [Human Subjects](#COUHES)
 6. [Project reviews](#PROJECTS)
 
@@ -70,23 +71,23 @@ evaluate, draw conclusions&mdash;in short to learn&mdash;all by
 themselves. It is this very drive...that is squelched by our current
 educational system.” &mdash;Seymour Papert
 
-<a name="SUGAR">
-2. ONE LAPTOP PER CHILD AND THE SUGAR DESKTOP
----------------------------------------------
+<a name="LOGO">
+2. LOGO: A PROGRAMMING LANGUAGE FOR CHILDREN
+--------------------------------------------
 </a>
 
-<a name="3">
-3. THREE
----------------------------------------------
+<a name="ROBOTICS">
+3. LOGO ROBOTICS
+----------------
 </a>
 
 Logo enables children to “use computers to manipulate things more
 familiar than the then-prevalent numbers and equations.”
 &mdash;F. Martin
 
-<a name="4">
-4. FOUR
----------------------------------------------
+<a name="SUGAR">
+4. THE SUGAR DESKTOP
+--------------------
 </a>
 
 <a name="COUHES">
