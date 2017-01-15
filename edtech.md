@@ -63,12 +63,12 @@ Suggested Reading
 ------------------
 </a>
 
-“Where the computer's true power as an educational medium
-lies&mdash;is in the ability to facilitate and extend children's
-awesome natural ability and drive to construct, hypothesize, explore,
-experiment, evaluate, draw conclusions&mdash;in short to
-learn&mdash;all by themselves. It is this very drive...that is
-squelched by our current educational system.” &mdash;Seymour Papert
+“Where the computer's true power as an educational medium lies is in
+the ability to facilitate and extend children's awesome natural
+ability and drive to construct, hypothesize, explore, experiment,
+evaluate, draw conclusions&mdash;in short to learn&mdash;all by
+themselves. It is this very drive...that is squelched by our current
+educational system.” &mdash;Seymour Papert
 
 <a name="SUGAR">
 2. ONE LAPTOP PER CHILD AND THE SUGAR DESKTOP
