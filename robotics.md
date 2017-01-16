@@ -151,7 +151,7 @@ Questions to Consider
   emulate human affect?
 
 <a name="CUSTOMSENSOR">
-35. Custom sensors
+3. Custom sensors
 -----------------
 </a>
 
@@ -239,10 +239,3 @@ Goal
 Questions to Consider
 ---------------------
 
-
-
-
-2. Labyrinth: Program robot to navigate through a labyrinth using default sensors
-3. Obstacle Course: Program robot to complete an obstacle course designed by another team
-4. Musical Chairs: Program robot to play musical chairs, as well as playing a song
-5. Picasso: Program robot to draw something and have another team attempt to duplicate
