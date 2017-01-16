@@ -57,6 +57,8 @@ Suggested Reading
 * P. Freire, *Pedagogy of the Oppressed*, Bloomsbury (1968).
 * S. Papert, *Mindstorms: Children, Computers, and Powerful Ideas*, Basic Books (1980).
 * S. Papert, *The Children's Machine: Rethinking School in the Age of the Computer*, Basic Books (1993).
+* Gandini, L et al., *In the Spirit of the Studio: Learning from the Atelier of Reggio Emilia*, Teachers College Press (2015).
+* L. Hetland, E. Winner, S. Veenema, K. M. Sheridan, *Studio Thinking 2: The Real Benefits of Visual Arts Education*, Teachers College Press (2013).
 
 <a name="CONSTRUCTIONISM">
 1. CONSTRUCTIONISM

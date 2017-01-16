@@ -86,6 +86,10 @@ Suggested Reading
   I. McCurdy, *Csound: A Sound and Music Computing System*, Springer,
   (2016).
 * R. Boulanger (editor), *The Csound Book*, MIT Press (2000).
+* T. Tunstall, *Changing Lives: Gustavo Dudamel, El Sistema, and the Transformative Power of Music*, Norton (2013).
+* D. Hosken, *An Introduction to Music Technology*, Routledge (2014).
+* C. D. Shelton, *Music and the Brain: How Music Changes the Brain*, Choice (2013).
+* C. Harding, *How We Listen Now: Essays and Conversations About Music and Technology*, Create Space (2015).
 
 <a name="MUSICBLOCKS">
 1. MUSIC BLOCKS
