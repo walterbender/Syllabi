@@ -10,6 +10,8 @@ course, students will have developed skills to design a small-scale
 yet complex robot capable of real-time interaction with the natural
 world.
 
+<img src='https://rawgithub.com/walterbender/Syllabi/master/rodi.jpg'/><br>Copyright CC-By Martin Abente 2016
+
 Instructor
 ----------
 
