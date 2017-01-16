@@ -44,12 +44,15 @@ Course Outline
 
 Grading
 -------
+
 50% of your grade is based on class participation in the experiential
-exploration of questions pointing to critical challenges.
+exploration of questions pointing to critical challenges in designing
+for educational technology solutions/interventions.
 
 50% of your grade will be for a project that might add insight to an
-effective color model with stated objectives. The intent is to offer
-you the opportunity to pursue something personally meaningful.
+effective learning model or activity with stated objectives. The
+intent is to offer you the opportunity to pursue something personally
+meaningful.
 
 Suggested Reading
 -----------------
@@ -78,14 +81,14 @@ Goal
 The goal of this class is to impart upon the students the underlying
 tenets of Constructionist Learning. Rather than instructing, telling,
 or showing the students what Constructionism is, students will break
-into small groups and teach each other some indivudual skill.
+into small groups and teach each other some individual skill.
 
 Questions to Consider
 ---------------------
 
 * Is "show, don't tell" different from traditional instruction?
 * When engaging in your teaching experience, in what ways were your
-  students contructing, hypothesizing, exploting, experimenting,
+  students contructing, hypothesizing, exploring, experimenting,
   evaluating, and drawing conclusions?
 * How did you ensure that the students were learning?
 
@@ -143,17 +146,17 @@ Goal
 ----
 
 In its early days, Logo was used to control a simple robot, known as
-the “Turtleturtle”. The original Logo turtle, invented by Paul
-Wexelblat at BBN, was known as Irving. He had touch sensors and could
-move forward and backward, rotate, and ring his bell. Children would
-type commands such as FORWARD 50 to make Irving go forward 50 steps,
-or RIGHT 90 to make him turn right ninety degrees. Irving carried a
-pen, so children could make drawings on a piece of paper. By using
-Irving, children engaged in basic problem solving, with Irving giving
-immediate, non­written feedback so that problems (bugs) could be
-spotted, all while having fun. Later versions had a turtle­shaped
-on­screen cursor, which could be given instructions for movement and
-could produce vector graphics when given instructions to draw.
+the “Turtle”. The original Logo turtle, invented by Paul Wexelblat at
+BBN, was known as Irving. He had touch sensors and could move forward
+and backward, rotate, and ring his bell. Children would type commands
+such as FORWARD 50 to make Irving go forward 50 steps, or RIGHT 90 to
+make him turn right ninety degrees. Irving carried a pen, so children
+could make drawings on a piece of paper. By using Irving, children
+engaged in basic problem solving, with Irving giving immediate,
+non­written feedback so that problems (bugs) could be spotted, all
+while having fun. Later versions had a turtle­shaped on­screen cursor,
+which could be given instructions for movement and could produce
+vector graphics when given instructions to draw.
 
 In this class, students will get hands-on experience with a
 programmable robot and use it to develop a learning experience.
@@ -182,7 +185,7 @@ learn.” &mdash;David McCullough
 Goal
 ----
 
-Sugar is the software orginially developed for the One Laptop per
+Sugar is the software originally developed for the One Laptop per
 Child project. The goal behind Sugar was (and is) to replace
 interaction between children and rigidly defined electronic
 educational materials with a set of tools that encourage creativity
@@ -198,7 +201,7 @@ Questions to Consider
 * How does Sugar go "beyond black boxes"?
 * Why is it (or isn't it) important that Sugar is Free/Libre Software?
 * Does it matter that learners and teachers contribute code to Sugar?
-* How does Sugar stike a balance between control and autonomy?
+* How does Sugar strike a balance between control and autonomy?
 
 Suggested Reading
 -----------------
