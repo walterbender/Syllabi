@@ -1,4 +1,4 @@
-ROBOTS AND MECHATRONICS 
+﻿ROBOTS AND MECHATRONICS 
 =======================
 
 Course Description
@@ -31,7 +31,7 @@ Course Structure
 ----------------
 
 This is a 6-week, project-based course. Students will work as a team
-on a group project of their own chosing and engage in weekly
+on a group project of their own choosing and engage in weekly
 challenges. The weekly challenges are designed to introduce specific
 skills that may be incorporated into the group project.
 
@@ -45,7 +45,7 @@ Grading
 Materials
 ---------
 
-RoDi (RedBot or Zumo 32u4 or an arduino-based platform), 1 per team
+RoDi (RedBot or Zumo 32u4 or an Arduino-based platform), 1 per team
 (Specific Robot TBD)
 Journal
 Laptop
@@ -162,7 +162,7 @@ Questions to Consider
 Goal
 ----
 
-The goal of this class is to devel more deeply into sensor
+The goal of this class is to delve more deeply into sensor
 design. Students will become familiar with the range of sensors
 available, how to chose the appropriate sensor for the task at hand,
 and how to incorporate the sensor into their project.
