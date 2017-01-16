@@ -29,9 +29,9 @@ Course Structure
 ----------------
 
 This is a 6-week, project-based course. Students will work as a team
-on a group project of their own chosing and weekly challenges. The
-weekly challenges are designed to introduce specific skills that may
-be incorporated into the group project.
+on a group project of their own chosing and engage in weekly
+challenges. The weekly challenges are designed to introduce specific
+skills that may be incorporated into the group project.
 
 Grading
 -------
@@ -52,8 +52,10 @@ Group Project
 -------------
 
 The goal of the group project is to incorporate robotics and
-mechatronics into a project of personal interest. How can robotics
-help you address an authentic problem?
+mechatronics into a project of personal interest and of relevance to
+the local community. How can robotics help you address an authentic
+problem? In formulating your proposed solution, use a decision matrix
+to document the choices made that lead to your outcome.
 
 Course Outline
 ---------------
@@ -178,6 +180,8 @@ distance it travels as it navigates a labyrinth.
 Questions to Consider
 ---------------------
 
+* Why did you choose the particular sensor(s) to solve this problem?
+* What other problems could you have solved with the same set of tools?
 
 <a name="ACTUATORS">
 4. Actuators
@@ -219,14 +223,25 @@ Questions to Consider
 Goal
 ----
 
+The goal of this class is to explore the potential of multiple
+interconnected robots.
+
 Equipment
 ---------
+
+* multiple Butia (or other network-enabled) robots
 
 Challenge
 ---------
 
+Teach the robots to dance, where one robot leads and the other robots follow.
+
 Questions to Consider
 ---------------------
+
+* Describe some applications where a collection of simple robots might
+  be better able to solve a problem than one centralized solution.
+* How should one make the trade-off between complexity and robustness?
 
 <a name="PROJECT">
 6. Project review
@@ -236,6 +251,12 @@ Questions to Consider
 Goal
 ----
 
+Final project presentations
+
 Questions to Consider
 ---------------------
+
+* To what extent do sensors and actuators play a role in the project?
+* How does the project benefit from interaction with the physical world?
+* Are the results replicable? scalable? manufacturable?
 
