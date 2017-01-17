@@ -437,8 +437,6 @@ Making design recommendations to production.
 Questions to Consider
 ---------------------
 
-* How will you establish a closed loop with production in order to
-  ensure both quality and efficiency?
 * Does your design establish clear metrics by which you can measure
   the quality of production?
 
