@@ -53,10 +53,10 @@ Grading
 Materials
 ---------
 
-RoDi (RedBot or Zumo 32u4 or an Arduino-based platform), 1 per team
-(Specific Robot TBD)
-Journal
-Laptop
+* RoDi (RedBot or Zumo 32u4 or an Arduino-based platform), 1 per team
+  (Specific Robot TBD)
+* Journal
+* Laptop
 
 Course Outline
 ---------------
@@ -260,4 +260,3 @@ Questions to Consider
 * To what extent do sensors and actuators play a role in the project?
 * How does the project benefit from interaction with the physical world?
 * Are the results replicable? scalable? manufacturable?
-
