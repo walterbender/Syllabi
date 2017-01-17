@@ -36,13 +36,14 @@ solutions.
 Course Organization
 -------------------
 
-Each time this course is offered, the class will visit a local
-institution or cultural site that will serve as the client for an
-inclusive graphic design exploration. Exercises in this course will
-include: historical and contemporary perspectives on graphic design,
-typographic studies, logo and brand development, creating design
-systems, small and large format layout construction, display, tour
-guide and way-finding.
+There will be two weekly meetings: (1) a discussion and experiment;
+and (2) a recitation for in-depth review of the material. Each time
+this course is offered, the class will visit a local institution or
+cultural site that will serve as the client for an inclusive graphic
+design exploration. Exercises in this course will include: historical
+and contemporary perspectives on graphic design, typographic studies,
+logo and brand development, creating design systems, small and large
+format layout construction, display, tour guide and way-finding.
 
 Course Goals
 ------------
@@ -52,9 +53,9 @@ At the end of the course, students will be able to:
 * Understand and apply basic elements and principles of graphic
   design, including: typography and letterform; space and layout(s);
   relationships between image, text and message; and identity and branding
-  systems in graphic design.
+  systems in graphic design;
 * Understand graphic design as an artistic and cultural practice with
-  direct implications on the functioning of everyday life.
+  direct implications on the functioning of everyday life;
 * Use their acquired knowledge of the historical development of
   graphic design and its emergence as a form of “high art” in the modern
   period to solve visual communication problems.
@@ -112,7 +113,7 @@ Assignment: Personal Business Card, Due at the beginning of Session 2
 
 * Critique: Personal Business Card
 * Exercise: Hand rendering type
-* Assignment: Architectural Poster Series (APS)
+* Assignment: Architectural Poster Series
 
 <a name="LAYOUT">
 3. TYPOGRAPHIC VARIATIONS AND LAYOUT
