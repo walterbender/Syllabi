@@ -117,7 +117,7 @@ Questions to Consider
 
 * Is "show, don't tell" different from traditional instruction?
 * When engaging in your teaching experience, in what ways were your
-  students contructing, hypothesizing, exploring, experimenting,
+  students constructing, hypothesizing, exploring, experimenting,
   evaluating, and drawing conclusions?
 * How did you ensure that the students were learning?
 
@@ -272,7 +272,7 @@ Suggested Reading
 
 Questions to Consider
 ---------------------
-* How do Contructionist principles manifest themselves in your project?
+* How do Constructionist principles manifest themselves in your project?
 * How can you characterize the learning in your project?
 * How can you measure the learning in your project?
 * To what extent is your project an incremental change vs a disruption?
@@ -296,6 +296,10 @@ liquid phase with a real-world problem.
 Questions to Consider
 ---------------------
 
+* What is the meaning or purpose of the problem you are trying to solve?
+* Is it a real-world problem?
+* What makes your design worth pursuing?
+* Have you compared your design with existing ideas?
 
 Suggested Reading
 -----------------
@@ -313,6 +317,12 @@ Goal
 Discovery of underlying natural phenomena and principles, i.e., input
 from the natural world: materials, processes, and functions that can
 influence and direct the design choices.
+
+Questions to Consider
+---------------------
+
+* Are there any mechanisms in nature that can serve as analogs for
+  your design?
 
 Suggested Reading
 -----------------
@@ -338,10 +348,8 @@ to identify potential opportunities and risks and liabilities.
 Questions to Consider
 ---------------------
 
+* What are the technical considerations to realize your idea?
 * What is the environmental impact of your design?
-* What is the energy footprint of your design?
-* Is your design sustainable?
-* What is the material life-cycle of your design?
 
 <a name="FEASIBILITY">
 10. STUDY OF TECHNICAL FEASIBILITY
@@ -352,7 +360,16 @@ Goal
 ----
 
 Study of technical feasibility and product relevance, which may
-result in our revisiting the problem definition determined in Sesson 8.
+result in our revisiting the problem definition determined in Session 8.
+
+Questions to Consider
+---------------------
+
+* Is your design manufacturable?
+* Is your design cost-effective?
+* What is the energy footprint of your design?
+* Is your design sustainable?
+* What is the material life-cycle of your design?
 
 <a name="PROTOTYPING">
 11. PROTOTYPING
@@ -364,6 +381,13 @@ Goal
 
 Developing prototypes that can be tested in the lab and/or field.
 
+Questions to Consider
+---------------------
+
+* What observations have you made about your prototype while in "action"?
+* Did your "users" make any suggestions about the design?
+* Did your "users" make any suggestions about alternative uses for your design?
+
 <a name="CANDIDATES">
 12. SELECTION OF CANDIDATE DESIGNS
 ----------------------------------
@@ -372,7 +396,15 @@ Developing prototypes that can be tested in the lab and/or field.
 Goal
 ----
 
-Selection of (three) candidate designs;
+Selection of (three) candidate designs.
+
+Questions to Consider
+---------------------
+
+* What are the projected lifetime of use and utility of the candidate designs?
+* Are they all equally easy to maintain?
+* Can they be repaired? By whom?
+* Are there environmental constraints on their operation?
 
 <a name="FINALIZATION">
 13. FINALIZATION OF DESIGN
@@ -382,16 +414,14 @@ Selection of (three) candidate designs;
 Goal
 ----
 
-Finalization of a design for manufacturing; and
+Finalization of a design for manufacturing.
 
 Questions to Consider
 ---------------------
 
-* Is your design manufacturable?
-* What is its projected lifetime of use and utility?
-* Is it maintainable?
-* Is it repairable? By whom?
-* Are there environmental contraints on its operation?
+* What constraints does manufacturing put on your design?
+* What compromises must you make in light of these constraints?
+* Are there established design/manufacturing practices to which you can adhere?
 
 <a name="PRODUCTION">
 14. RECOMMENDATIONS FOR PRODUCTION
@@ -402,6 +432,14 @@ Goal
 ----
 
 Making design recommendations to production.
+
+Questions to Consider
+---------------------
+
+* How will you establish a closed loop with production in order to
+  ensure both quality and efficiency?
+* Does your design establish clear metrics by which you can measure
+  the quality of production?
 
 <a name="REVIEW">
 15. SOLID-PHASE COURSE REVIEWS
@@ -417,7 +455,7 @@ Goal
 Questions to Consider
 ---------------------
 
-* After 15 weeks of iteration and revision, is your project still
-  Constructionist in its essense?
+* After 15 weeks of iteration, revision, and compromise, is your
+  project still Constructionist in its essence?
 * Is your project ready for manufacturing?
 * What is the potential market for your project?
