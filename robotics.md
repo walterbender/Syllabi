@@ -32,10 +32,16 @@ Course Organization
 
 There will be two weekly meetings: (1) a discussion and experiment;
 and (2) a recitation for in-depth review of the material. This is
-project-based course. Students will work as a team on a group project
-of their own choosing and engage in weekly challenges. The weekly
-challenges are designed to introduce specific skills that may be
-incorporated into the group project.
+project-based course. Students will engage in weekly challenges.  The
+weekly challenges are designed to introduce specific skills that may
+be incorporated into a group project.
+
+Students will also work as a team on a group project of their own
+choosing.  The goal of the group project is to incorporate robotics
+and mechatronics into a project of personal interest and of relevance
+to the local community. How can robotics help you address an authentic
+problem? In formulating your proposed solution, use a decision matrix
+to document the choices made that lead to your outcome.
 
 Grading
 -------
@@ -51,15 +57,6 @@ RoDi (RedBot or Zumo 32u4 or an Arduino-based platform), 1 per team
 (Specific Robot TBD)
 Journal
 Laptop
-
-Group Project
--------------
-
-The goal of the group project is to incorporate robotics and
-mechatronics into a project of personal interest and of relevance to
-the local community. How can robotics help you address an authentic
-problem? In formulating your proposed solution, use a decision matrix
-to document the choices made that lead to your outcome.
 
 Course Outline
 ---------------
