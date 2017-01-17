@@ -335,6 +335,14 @@ layout, functional and material design, and cost analysis; When
 iterating in this step, these parameters are purposefully exaggerated
 to identify potential opportunities and risks and liabilities.
 
+Questions to Consider
+---------------------
+
+* What is the environmental impact of your design?
+* What is the energy footprint of your design?
+* Is your design sustainable?
+* What is the material life-cycle of your design?
+
 <a name="FEASIBILITY">
 10. STUDY OF TECHNICAL FEASIBILITY
 ----------------------------------
@@ -376,6 +384,15 @@ Goal
 
 Finalization of a design for manufacturing; and
 
+Questions to Consider
+---------------------
+
+* Is your design manufacturable?
+* What is its projected lifetime of use and utility?
+* Is it maintainable?
+* Is it repairable? By whom?
+* Are there environmental contraints on its operation?
+
 <a name="PRODUCTION">
 14. RECOMMENDATIONS FOR PRODUCTION
 ----------------------------------
@@ -396,3 +413,11 @@ Goal
 
 * Final project presentation and critique.
 * Course review and critique.
+
+Questions to Consider
+---------------------
+
+* After 15 weeks of iteration and revision, is your project still
+  Constructionist in its essense?
+* Is your project ready for manufacturing?
+* What is the potential market for your project?
