@@ -45,15 +45,12 @@ recommendation for production.
 Course Outline
 --------------
 
-###Liquid Phase
 1. [Constructionism](#CONSTRUCTIONISM)
 2. [Logo](#LOGO)
 3. [Logo Robotics](#ROBOTICS)
 4. [The Sugar Desktop](#SUGAR)
 5. [Human Subjects](#COUHES)
 6. [Project reviews](#PROJECTS)
-
-###Solid Phase
 7. [Problem definition](#DEFINITION)
 8. [Discovery](#DISCOVERY)
 9. [Consolidation](#CONSOLIDATION)
@@ -358,6 +355,7 @@ Making design recommendations to production.
 
 <a name="REVIEW">
 15. Course review
+-----------------
 </a>
 
 Goal
