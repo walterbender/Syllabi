@@ -27,21 +27,42 @@ Constructionist Learning by engaging in Constructionist Learning.
 Course Organization
 -------------------
 
-There will be two weekly meetings: (1) a discussion and experiment;
-and (2) a recitation for in-depth review of the material. Throughout
-the course, students will be working on an educational-technology
-project of their own choosing. Each week, different tools from the
-Constructionist toolkit will be presented. A discussion will ensue.
+The course is broken into two phases: liquid (innovation) and solid
+(consolidation).
+
+During the liquid phase, weeks 1 through 6, there will be two weekly
+meetings: (1) a discussion and experiment; and (2) a recitation for
+in-depth review of the material. Throughout the course, students will
+be working on an educational-technology project of their own
+choosing. Each week, different tools from the Constructionist toolkit
+will be presented. A discussion will ensue.
+
+During the solid phase, weeks 8 through 15, there will be bi-weekly
+meetings with the design faculty to move through a design pipeline,
+taking the ideas developed in the liquid phase into a design
+recommendation for production.
 
 Course Outline
 --------------
 
+###Liquid Phase
 1. [Constructionism](#CONSTRUCTIONISM)
 2. [Logo](#LOGO)
 3. [Logo Robotics](#ROBOTICS)
 4. [The Sugar Desktop](#SUGAR)
 5. [Human Subjects](#COUHES)
 6. [Project reviews](#PROJECTS)
+
+###Solid Phase
+7. [Problem definition](#DEFINITION)
+8. [Discovery](#DISCOVERY)
+9. [Consolidation](#CONSOLIDATION)
+10. [Technical feasibility study](#FEASIBILITY)
+11. [Prototyping](#PROTOTYPING)
+12. [Candidate selection](#CANDIDATES)
+13. [Finalization of design](#FINALIZATION)
+14. [Recommendations for production](#PRODUCTION)
+15. [Course review](#REVIEW)
 
 Grading
 -------
@@ -247,3 +268,100 @@ Questions to Consider
 * To what extent is your project an incremental change vs a disruption?
 * How will your project mesh with existing educational initiatives?
 * How does your project create value?
+
+<a name="DEFINITION">
+7. Problem definition
+------------------
+</a>
+
+Goal
+----
+
+Problem definition, typically a synthesis of an interim output of the
+liquid phase with a real-world problem.
+
+<a name="DISCOVERY">
+8. DISCOVERY
+------------
+</a>
+
+Goal
+----
+
+Discovery of underlying natural phenomena and principles, i.e.,
+input from the natural world: materials, processes, and functions that
+can influence and direct the design choices.
+
+<a name="CONSOLIDATION">
+9. Consolidation
+----------------
+</a>
+
+Goal
+----
+
+Consolidation of the concepts through a process of sketches,
+layout, functional and material design, and cost analysis; When
+iterating in this step, these parameters are purposefully exaggerated
+to identify potential opportunities and risks and liabilities.
+
+<a name="FEASIBILITY">
+10. Study of technical feasibility
+----------------------------------
+</a>
+
+Goal
+----
+
+Study of technical feasibility and product relevance, which may
+result in our revisiting the problem definition determined in Step 1;
+
+<a name="PROTOTYPING">
+11. Prototyping
+---------------
+</a>
+
+Goal
+----
+
+Developing prototypes that can be tested in the lab and/or field.
+
+<a name="CANDIDATES">
+12. Selection of candidate designs
+------------------------------
+</a>
+
+Goal
+----
+
+Selection of (three) candidate designs;
+
+<a name="FINALIZATION">
+13. Finalization of design
+--------------------------
+</a>
+
+Goal
+----
+
+Finalization of a design for manufacturing; and
+
+<a name="PRODUCTION">
+14. Recommendations for production
+----------------------------------
+</a>
+
+Goal
+----
+
+Making design recommendations to production.
+
+<a name="REVIEW">
+15. Course review
+</a>
+
+Goal
+----
+
+* Final project presentation and critique.
+* Course review and critique.
