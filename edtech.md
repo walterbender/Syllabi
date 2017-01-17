@@ -51,11 +51,11 @@ Course Outline
 
 1. [Constructionism](#CONSTRUCTIONISM)
 2. [Logo](#LOGO)
-3. [Logo Robotics](#ROBOTICS)
-4. [The Sugar Desktop](#SUGAR)
-5. [Human Subjects](#COUHES)
-6. [Project reviews](#PROJECTS)
-7. [Problem definition](#DEFINITION)
+3. [Logo robotics](#ROBOTICS)
+4. [The Sugar desktop](#SUGAR)
+5. [Human subjects](#COUHES)
+6. [Liquid-phase project reviews](#PROJECTS)
+7. [Solid-phase problem definition](#DEFINITION)
 8. [Discovery](#DISCOVERY)
 9. [Consolidation](#CONSOLIDATION)
 10. [Technical feasibility study](#FEASIBILITY)
@@ -63,7 +63,7 @@ Course Outline
 12. [Candidate selection](#CANDIDATES)
 13. [Finalization of design](#FINALIZATION)
 14. [Recommendations for production](#PRODUCTION)
-15. [Course review](#REVIEW)
+15. [Solid-phase project reviews](#REVIEW)
 
 Grading
 -------
@@ -280,8 +280,8 @@ Questions to Consider
 * How does your project create value?
 
 <a name="DEFINITION">
-7. PROBLEM DEFINITION
-------------------
+7. SOLID-PHASE PROBLEM DEFINITION
+---------------------------------
 </a>
 
 "Almost anybody can have an idea... Getting things actually done is
