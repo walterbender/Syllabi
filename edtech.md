@@ -27,10 +27,11 @@ Constructionist Learning by engaging in Constructionist Learning.
 Course Organization
 -------------------
 
-Throughout the course, students will be working on an
-educational-technology project of their own choosing. Each week,
-different tools from the Constructionist toolkit will be presented. A
-discussion will ensue.
+There will be two weekly meetings: (1) a discussion and experiment;
+and (2) a recitation for in-depth review of the material. Throughout
+the course, students will be working on an educational-technology
+project of their own choosing. Each week, different tools from the
+Constructionist toolkit will be presented. A discussion will ensue.
 
 Course Outline
 --------------

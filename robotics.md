@@ -27,13 +27,15 @@ Course Objectives
 * Develop team-working and communication skills;
 * Develop critical-thinking and problem-solving skills.
 
-Course Structure
-----------------
+Course Organization
+-------------------
 
-This is a 6-week, project-based course. Students will work as a team
-on a group project of their own choosing and engage in weekly
-challenges. The weekly challenges are designed to introduce specific
-skills that may be incorporated into the group project.
+There will be two weekly meetings: (1) a discussion and experiment;
+and (2) a recitation for in-depth review of the material. This is
+project-based course. Students will work as a team on a group project
+of their own choosing and engage in weekly challenges. The weekly
+challenges are designed to introduce specific skills that may be
+incorporated into the group project.
 
 Grading
 -------

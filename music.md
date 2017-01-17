@@ -38,16 +38,7 @@ Course Organization
 -------------------
 
 There will be two weekly meetings: (1) a discussion and experiment;
-and (2) a recitation for in-depth review of the material. Generally
-each class will begin with discussion of research other people have
-done on the same topic as last week's exploration topic. This
-discussion may include visits by some of the researchers or by authors
-who have written on the subject. The intent is to encourage students
-to explore a subject before reading about it. This approach tends to
-avoid biasing interpretations of what might be going on and provides
-students with their own base of experience to which they can relate
-when reading research on the topic of interest. The second class
-activity will be an exploration of this week's class goal.
+and (2) a recitation for in-depth review of the material.
 
 Requirements
 ------------
