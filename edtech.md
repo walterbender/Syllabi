@@ -271,11 +271,23 @@ Questions to Consider
 ------------------
 </a>
 
+"Almost anybody can have an idea... Getting things actually done is
+where people stumble." &mdash;Linus Torvalds
+
 Goal
 ----
 
 Problem definition, typically a synthesis of an interim output of the
 liquid phase with a real-world problem.
+
+Questions to Consider
+---------------------
+
+
+Suggested Reading
+-----------------
+
+* D. Norman, *The Design of Everyday Things*, Basic Books (2013).
 
 <a name="DISCOVERY">
 8. DISCOVERY
@@ -288,6 +300,14 @@ Goal
 Discovery of underlying natural phenomena and principles, i.e.,
 input from the natural world: materials, processes, and functions that
 can influence and direct the design choices.
+
+Suggested Reading
+-----------------
+
+* j. Bernsen *Bionics in Action: The Design Work of Franco Lodato*,
+  StoryWorks DK (2004).
+* F Wilczek, *A Beautiful Question: Finding Nature's Deep Design*,
+  Penguin (2015).
 
 <a name="CONSOLIDATION">
 9. Consolidation
