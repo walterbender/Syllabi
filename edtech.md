@@ -311,7 +311,7 @@ Goal
 ----
 
 Study of technical feasibility and product relevance, which may
-result in our revisiting the problem definition determined in Step 1;
+result in our revisiting the problem definition determined in Sesson 8.
 
 <a name="PROTOTYPING">
 11. Prototyping
