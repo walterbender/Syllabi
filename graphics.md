@@ -64,10 +64,10 @@ Course Outline
 --------------
 
 1. [What is graphic design?](#WHAT)
-2. [Typography and its role in solving grpahic design problems](#TYPE)
+2. [Typography and its role in solving graphic-design problems](#TYPE)
 3. [Typographic variations and layout](#LAYOUT)
-4. [How design builds unity and continuity](#CONTINUITY)
-5. [Design and Promotion Project](#PROMOTION)
+4. [Poster design](#POSTER)
+5. [Display design and promotion project](#PROMOTION)
 6. [Project Review](#PROJECTS)
 
 Grading
@@ -95,12 +95,11 @@ Suggested Readings
 * inspire.adobe.com: tips, tricks, and inspiration.
 
 <a name="WHAT">
-1. WHAT IS GRAPHIC DESIGN
--------------------------
+1. WHAT IS GRAPHIC DESIGN?
+--------------------------
 </a>
 
-* Introductions, overview of required texts/materials, projects and
-  expectations.
+* Introductions, overview of pojects and expectations.
 * Overview of the history of graphic design.
 
 Assignment: Personal Business Card, Due at the beginning of Session 2
@@ -109,45 +108,44 @@ Assignment: Personal Business Card, Due at the beginning of Session 2
 2. TYPOGRAPHY AND ITS ROLE IN SOLVING GRAPHIC DESIGN PROBLEMS
 -------------------------------------------------------------
 </a>
-2. [Concepts and principles of graphic design: Typography and its role in solving](#TYPE)
 
-* Critique: Personal Business Card
-* Exercise: Hand rendering type
-* Assignment: Architectural Poster Series
+* Critique/discussion of personal business card project.
+* Exercise: Hand-rendering type.
+* Assignment: Architectural poster series.
 
 <a name="LAYOUT">
 3. TYPOGRAPHIC VARIATIONS AND LAYOUT
 ------------------------------------
 </a>
 
-* Management, grid, form, image, color, and texture.
+* Discussion of typographic variations, layput management, grid, form,
+  image, color, and texture.
 * Discuss the design process.
+* First review of poster assignment.
 
-<a name="CONTINUITY">
-4. HOW DESIGN BUILDS UNITY AND CONTINUITY
------------------------------------------
+<a name="POSTER">
+4. POSTER DESIGN
+----------------
 </a>
 
-* Review of initial ideas and discussion of graphic design system(s)
-and display design.
-* Presentation of case studies projects.
+* History of poster design.
+* Critique/discussion of personal business card project.
+* Assignment: Display design and promotion project. Students must
+  visit project partner organization.
 
 <a name="PROMOTION">
-5. DESIGN AND PROMOTION PROJECT
--------------------------------
+5. DISPLAY DESIGN AND PROMOTION PROJECT
+---------------------------------------
 </a>
 
-Introduction to identity design and branding
-
-Students will design a new unique identity and brand system
-Design elements will include:
--logo
--stationary system
--3-dimensional site identification signage
--way finding system
--collateral brochure
+* Discussion: How design builds unity and continuity.
+* Students should be prepared to present their research and initial ideas.
+* Review of initial ideas.
 
 <a name="PROJECTS">
 6. FINAL PROJECT REVIEWS
 ------------------------
 </a>
+
+* Discussion of graphics-design systems and display design.
+* Critique/discussion of display design/promotion project.
