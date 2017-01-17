@@ -4,11 +4,12 @@
 <img src='https://rawgithub.com/walterbender/Syllabi/master/nepal.jpg'/>
 <br>Copyright CC-By Walter Bender 2014
 
-Instructor
-----------
+Instructors
+-----------
 
 Walter Bender (walter@miamicollegeofdesign.com)<br>
 Ann Valente (ann@miamicollegeofdesign.com)
+Design Faculty
 
 Objective
 ---------
