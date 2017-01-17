@@ -30,17 +30,21 @@ Course Organization
 The course is broken into two phases: liquid (innovation) and solid
 (consolidation).
 
-During the liquid phase, weeks 1 through 6, there will be two weekly
-meetings: (1) a discussion and experiment; and (2) a recitation for
-in-depth review of the material. Throughout the course, students will
-be working on an educational-technology project of their own
-choosing. Each week, different tools from the Constructionist toolkit
-will be presented. A discussion will ensue.
+Throughout the both phases of the course, students will be working on
+an educational-technology project of their own choosing. The project
+will incorporate an effective learning model or activity with stated
+objectives. The intent is to offer students the opportunity to pursue
+something personally meaningful.
 
-During the solid phase, weeks 8 through 15, there will be bi-weekly
-meetings with the design faculty to move through a design pipeline,
-taking the ideas developed in the liquid phase into a design
-recommendation for production.
+During the *liquid* phase, weeks 1 through 6, there will be two weekly
+meetings: (1) a discussion and experiment; and (2) a recitation for
+in-depth review of the material. Each week, different tools from the
+Constructionist toolkit will be presented and a discussion will ensue.
+
+During the *solid* phase, weeks 8 through 15, there will be
+twice-weekly meetings with the design faculty to move through a design
+pipeline, taking the ideas developed in the *liquid* phase into a
+design recommendation for production.
 
 Course Outline
 --------------
@@ -64,23 +68,29 @@ Course Outline
 Grading
 -------
 
-50% of your grade is based on class participation in the experiential
+30% of your grade is based on class participation in the experiential
 exploration of questions pointing to critical challenges in designing
 for educational technology solutions/interventions.
 
-50% of your grade will be for a project that might add insight to an
-effective learning model or activity with stated objectives. The
-intent is to offer you the opportunity to pursue something personally
-meaningful.
+20% of your grade will be based on the project presentation at the end
+of the *liquid* phase of the course.
+
+50% of your grade will be for your project work during the *solid*
+phase of the course.
 
 Suggested Reading
 -----------------
 
 * P. Freire, *Pedagogy of the Oppressed*, Bloomsbury (1968).
-* S. Papert, *Mindstorms: Children, Computers, and Powerful Ideas*, Basic Books (1980).
-* S. Papert, *The Children's Machine: Rethinking School in the Age of the Computer*, Basic Books (1993).
-* Gandini, L et al., *In the Spirit of the Studio: Learning from the Atelier of Reggio Emilia*, Teachers College Press (2015).
-* L. Hetland, E. Winner, S. Veenema, K. M. Sheridan, *Studio Thinking 2: The Real Benefits of Visual Arts Education*, Teachers College Press (2013).
+* S. Papert, *Mindstorms: Children, Computers, and Powerful Ideas*,
+  Basic Books (1980).
+* S. Papert, *The Children's Machine: Rethinking School in the Age of
+  the Computer*, Basic Books (1993).
+* Gandini, L et al., *In the Spirit of the Studio: Learning from the
+  Atelier of Reggio Emilia*, Teachers College Press (2015).
+* L. Hetland, E. Winner, S. Veenema, K. M. Sheridan, *Studio Thinking
+  2: The Real Benefits of Visual Arts Education*, Teachers College
+  Press (2013).
 
 <a name="CONSTRUCTIONISM">
 1. CONSTRUCTIONISM
@@ -189,8 +199,10 @@ Questions to Consider
 Suggested Reading
 -----------------
 
-* F. Martin, *Robotic Explorations: A Hands-On Introduction to Engineering*, Prentice-Hall (1980).
-* J. Burker, *The Invent To Learn Guide To Fun*, Constructing Modern Knowledge Press (2015),
+* F. Martin, *Robotic Explorations: A Hands-On Introduction to
+  Engineering*, Prentice-Hall (1980).
+* J. Burker, *The Invent To Learn Guide To Fun*, Constructing Modern
+  Knowledge Press (2015),
 
 <a name="SUGAR">
 4. THE SUGAR DESKTOP
@@ -225,7 +237,8 @@ Questions to Consider
 Suggested Reading
 -----------------
 
-* W. Bender, C. Kane, J. Cornish, N. Donahue, *Learning to Change the World*, Palgrave (2012).
+* W. Bender, C. Kane, J. Cornish, N. Donahue, *Learning to Change the
+  World*, Palgrave (2012).
 
 <a name="COUHES">
 5. HUMAN SUBJECT RESEARCH
@@ -251,8 +264,8 @@ Suggested Reading
 * https://humansubjects.nih.gov/requirement-education
 
 <a name="PROJECTS">
-6. FINAL PROJECT REVIEWS
-------------------------
+6. LIQUID-PHASE PROJECT REVIEWS
+-------------------------------
 </a>
 
 *Imagine and realize* &mdash;J. Maeda<br>*Critique and reflect* &mdash;W. Bender
@@ -267,7 +280,7 @@ Questions to Consider
 * How does your project create value?
 
 <a name="DEFINITION">
-7. Problem definition
+7. PROBLEM DEFINITION
 ------------------
 </a>
 
@@ -297,9 +310,9 @@ Suggested Reading
 Goal
 ----
 
-Discovery of underlying natural phenomena and principles, i.e.,
-input from the natural world: materials, processes, and functions that
-can influence and direct the design choices.
+Discovery of underlying natural phenomena and principles, i.e., input
+from the natural world: materials, processes, and functions that can
+influence and direct the design choices.
 
 Suggested Reading
 -----------------
@@ -310,7 +323,7 @@ Suggested Reading
   Penguin (2015).
 
 <a name="CONSOLIDATION">
-9. Consolidation
+9. CONSOLIDATION
 ----------------
 </a>
 
@@ -323,7 +336,7 @@ iterating in this step, these parameters are purposefully exaggerated
 to identify potential opportunities and risks and liabilities.
 
 <a name="FEASIBILITY">
-10. Study of technical feasibility
+10. STUDY OF TECHNICAL FEASIBILITY
 ----------------------------------
 </a>
 
@@ -334,7 +347,7 @@ Study of technical feasibility and product relevance, which may
 result in our revisiting the problem definition determined in Sesson 8.
 
 <a name="PROTOTYPING">
-11. Prototyping
+11. PROTOTYPING
 ---------------
 </a>
 
@@ -344,8 +357,8 @@ Goal
 Developing prototypes that can be tested in the lab and/or field.
 
 <a name="CANDIDATES">
-12. Selection of candidate designs
-------------------------------
+12. SELECTION OF CANDIDATE DESIGNS
+----------------------------------
 </a>
 
 Goal
@@ -354,7 +367,7 @@ Goal
 Selection of (three) candidate designs;
 
 <a name="FINALIZATION">
-13. Finalization of design
+13. FINALIZATION OF DESIGN
 --------------------------
 </a>
 
@@ -364,7 +377,7 @@ Goal
 Finalization of a design for manufacturing; and
 
 <a name="PRODUCTION">
-14. Recommendations for production
+14. RECOMMENDATIONS FOR PRODUCTION
 ----------------------------------
 </a>
 
@@ -374,8 +387,8 @@ Goal
 Making design recommendations to production.
 
 <a name="REVIEW">
-15. Course review
------------------
+15. SOLID-PHASE COURSE REVIEWS
+------------------------------
 </a>
 
 Goal
