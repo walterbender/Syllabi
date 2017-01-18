@@ -8,7 +8,7 @@ Instructors
 -----------
 
 Walter Bender (walter@miamicollegeofdesign.com)<br>
-Ann Valente (ann@miamicollegeofdesign.com)
+Ann Valente (ann@miamicollegeofdesign.com)<br>
 Design Faculty
 
 Objective
@@ -33,16 +33,16 @@ The course is broken into two phases: liquid (innovation) and solid
 
 Throughout the both phases of the course, students will be working on
 an educational-technology project of their own choosing. The project
-will incorporate an effective learning model or activity with stated
+will incorporate a learning model or activity with stated
 objectives. The intent is to offer students the opportunity to pursue
 something personally meaningful.
 
-During the *liquid* phase, weeks 1 through 6, there will be two weekly
+During the *liquid* phase, Weeks 1 through 6, there will be two weekly
 meetings: (1) a discussion and experiment; and (2) a recitation for
 in-depth review of the material. Each week, different tools from the
 Constructionist toolkit will be presented and a discussion will ensue.
 
-During the *solid* phase, weeks 8 through 15, there will be
+During the *solid* phase, Weeks 8 through 15, there will be
 twice-weekly meetings with the design faculty to move through a design
 pipeline, taking the ideas developed in the *liquid* phase into a
 design recommendation for production.
@@ -239,7 +239,7 @@ Suggested Reading
 -----------------
 
 * W. Bender, C. Kane, J. Cornish, N. Donahue, *Learning to Change the
-  World*, Palgrave (2012).
+  World*, Palgrave (2012). Chapter 4
 
 <a name="COUHES">
 5. HUMAN SUBJECT RESEARCH
@@ -360,8 +360,9 @@ Questions to Consider
 Goal
 ----
 
-Study of technical feasibility and product relevance, which may
-result in our revisiting the problem definition determined in Session 8.
+Study of technical feasibility and product relevance, which may result
+in our revisiting the problem definition determined in Session 8
+[Discovery](#DISCOVERY).
 
 Questions to Consider
 ---------------------
@@ -405,7 +406,9 @@ Questions to Consider
 * What are the projected lifetime of use and utility of the candidate designs?
 * Are they all equally easy to maintain?
 * Can they be repaired? By whom?
+* Can they be reused or repurposed?
 * Are there environmental constraints on their operation?
+* Are they all suitable and safe for young children?
 
 <a name="FINALIZATION">
 13. FINALIZATION OF DESIGN
