@@ -81,7 +81,7 @@ Suggested Reading
 * K Ceceri, *Making Simple Robots: Exploring Cutting-Edge Robotics
   with Everyday Stuff*, Maker Media (2015).
 * F. Martin, *Robotic Explorations: A Hands-On Introduction to
-  Engineering*, Prentice-Hall (1980).
+  Engineering*, Prentice-Hall (2000).
 * http://rodibot.github.io/
 * https://learn.sparkfun.com/tutorials/getting-started-with-the-redbot
 * https://www.pololu.com/product/3124

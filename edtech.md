@@ -204,7 +204,7 @@ Suggested Reading
 -----------------
 
 * F. Martin, *Robotic Explorations: A Hands-On Introduction to
-  Engineering*, Prentice-Hall (1980).
+  Engineering*, Prentice-Hall (2000).
 * J. Burker, *The Invent To Learn Guide To Fun*, Constructing Modern
   Knowledge Press (2015),
 
