@@ -1,4 +1,7 @@
-﻿LEARNING-CENTRIC DESIGN
+﻿<img src='https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png'/>
+
+
+LEARNING-CENTRIC DESIGN
 =======================
 
 <img src='https://rawgithub.com/walterbender/Syllabi/master/nepal.jpg'/>
