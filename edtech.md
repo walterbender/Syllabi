@@ -1,10 +1,7 @@
-﻿<img src='https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png'/>
-
-
-LEARNING-CENTRIC DESIGN
+﻿LEARNING-CENTRIC DESIGN
 =======================
 
-<img src='https://rawgithub.com/walterbender/Syllabi/master/nepal.jpg'/>
+<img src="https://rawgithub.com/walterbender/Syllabi/master/nepal.jpg"/>
 <br>Copyright CC-By Walter Bender 2014
 
 Instructors
@@ -464,3 +461,7 @@ Questions to Consider
   project still Constructionist in its essence?
 * Is your project ready for manufacturing?
 * What is the potential market for your project?
+
+<p align="center">
+<img src="https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png"/>
+</p>
