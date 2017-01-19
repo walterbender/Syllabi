@@ -444,8 +444,8 @@ Questions to Consider
   the quality of production?
 
 <a name="REVIEW">
-15. SOLID-PHASE COURSE REVIEWS
-------------------------------
+15. SOLID-PHASE PROJECT REVIEWS
+-------------------------------
 </a>
 
 Goal
@@ -460,7 +460,7 @@ Questions to Consider
 * After 15 weeks of iteration, revision, and compromise, is your
   project still Constructionist in its essence?
 * Is your project ready for manufacturing?
-* What is the potential market for your project?
+* What are the next steps for your project?
 
 <p align="center">
 <img src="https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png"/>
