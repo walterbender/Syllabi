@@ -40,10 +40,8 @@ The course is broken into two phases: liquid (innovation) and solid
 (consolidation).
 
 Throughout the both phases of the course, students will be working on
-an educational-technology project of their own choosing. The project
-will incorporate a learning model or activity with stated
-objectives. The intent is to offer students the opportunity to pursue
-something personally meaningful.
+an project of their own choosing. The intent is to offer students the
+opportunity to pursue something personally meaningful.
 
 During the *liquid* phase, Weeks 1 through 6, there will be two weekly
 meetings: (1) a discussion and experiment; and (2) a recitation for
