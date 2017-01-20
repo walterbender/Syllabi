@@ -14,7 +14,8 @@ interface, semantics and aesthetics of color.
 Instructor
 ----------
 
-Walter Bender (walter@miamicollegeofdesign.com)
+Walter Bender (walter@miamicollegeofdesign.com)<br>
+Design faculty
 
 Objective
 ---------
@@ -35,12 +36,24 @@ personal exploration of a model for color communication.
 Course Organization
 -------------------
 
-There will be two weekly meetings: (1) a discussion and experiment;
-and (2) a recitation for in-depth review of the material. Generally
-each class will begin with discussion of research. This discussion may
-include visits by some of the researchers or by authors who have
-written on the subject. The second part of the class will be an
-exploration of this week's class goal.
+The course is broken into two phases: liquid (innovation) and solid
+(consolidation).
+
+Throughout the both phases of the course, students will be working on
+an educational-technology project of their own choosing. The project
+will incorporate a learning model or activity with stated
+objectives. The intent is to offer students the opportunity to pursue
+something personally meaningful.
+
+During the *liquid* phase, Weeks 1 through 6, there will be two weekly
+meetings: (1) a discussion and experiment; and (2) a recitation for
+in-depth review of the material. Each week, different tools relevant
+to color will be presented and a discussion will ensue.
+
+During the *solid* phase, Weeks 8 through 15, there will be
+twice-weekly meetings with the design faculty to move through a design
+pipeline, taking the ideas developed in the *liquid* phase into a
+design recommendation for production.
 
 Requirements
 ------------
@@ -58,18 +71,28 @@ Course Outline
 3. [The Mind's Eye](#MINDEYE) (visual pathways)
 4. [Robust Communication](#ORDERSYSTEMS) (color-order systems)
 5. [Deliberate Expression](#EXPRESSION) (color and affect)
-6. [Project reviews](#PROJECTS)
+6. [Liquid-phase project reviews](#PROJECTS)
+7. [Solid-phase problem definition](#DEFINITION)
+8. [Discovery](#DISCOVERY)
+9. [Consolidation](#CONSOLIDATION)
+10. [Technical feasibility study](#FEASIBILITY)
+11. [Prototyping](#PROTOTYPING)
+12. [Candidate selection](#CANDIDATES)
+13. [Finalization of design](#FINALIZATION)
+14. [Recommendations for production](#PRODUCTION)
+15. [Solid-phase project reviews](#REVIEW)
 
 Grading
 -------
-50% of your grade is based on class participation in the experiential
-exploration of questions pointing to critical challenges.
+30% of your grade is based on class participation in the experiential
+exploration of questions pointing to critical challenges for
+incorporating color into a product.
 
-25% of your grade will be for a project that might add insight to an
-effective color model with stated objectives. The intent is to offer
-you the opportunity to pursue something personally meaningful.
+20% of your grade will be based on the project presentation at the end
+of the *liquid* phase of the course.
 
-25% of your grade is dependent upon weekly problems.
+50% of your grade will be for your project work during the *solid*
+phase of the course.
 
 Suggested Reading
 -----------------
@@ -336,7 +359,7 @@ Suggested Reading
   Systems Journal* **35**, 3/4 (1996).
 
 <a name="PROJECTS">
-6. FINAL PROJECT REVIEWS
+6. LIQUID-PHASE PROJECT REVIEWS
 ------------------------
 </a>
 
@@ -349,3 +372,190 @@ Questions to Consider
 * Is the solution targeted to a specific audience or is it universal?
 * How do you know?
 * What is the cost/benefit of adding color to your project?
+
+<a name="DEFINITION">
+7. SOLID-PHASE PROBLEM DEFINITION
+---------------------------------
+</a>
+
+"Almost anybody can have an idea... Getting things actually done is
+where people stumble." &mdash;Linus Torvalds
+
+Goal
+----
+
+Problem definition, typically a synthesis of an interim output of the
+liquid phase with a real-world problem.
+
+Questions to Consider
+---------------------
+
+* What is the meaning or purpose of the problem you are trying to solve?
+* Is it a real-world problem?
+* What makes your design worth pursuing?
+* Have you compared your design with existing ideas?
+
+Suggested Reading
+-----------------
+
+* D. Norman, *The Design of Everyday Things*, Basic Books (2013).
+
+<a name="DISCOVERY">
+8. DISCOVERY
+------------
+</a>
+
+Goal
+----
+
+Discovery of underlying natural phenomena and principles, i.e., input
+from the natural world: materials, processes, and functions that can
+influence and direct the design choices.
+
+Questions to Consider
+---------------------
+
+* Are there any mechanisms in nature that can serve as analogs for
+  your design?
+
+Suggested Reading
+-----------------
+
+* j. Bernsen *Bionics in Action: The Design Work of Franco Lodato*,
+  StoryWorks DK (2004).
+* F Wilczek, *A Beautiful Question: Finding Nature's Deep Design*,
+  Penguin (2015).
+
+<a name="CONSOLIDATION">
+9. CONSOLIDATION
+----------------
+</a>
+
+Goal
+----
+
+Consolidation of the concepts through a process of sketches,
+layout, functional and material design, and cost analysis; When
+iterating in this step, these parameters are purposefully exaggerated
+to identify potential opportunities and risks and liabilities.
+
+Questions to Consider
+---------------------
+
+* What are the technical considerations to realize your idea?
+* What is the environmental impact of your design?
+
+<a name="FEASIBILITY">
+10. STUDY OF TECHNICAL FEASIBILITY
+----------------------------------
+</a>
+
+Goal
+----
+
+Study of technical feasibility and product relevance, which may result
+in our revisiting the problem definition determined in Session 8
+[Discovery](#DISCOVERY).
+
+Questions to Consider
+---------------------
+
+* Is your design manufacturable?
+* Is your design cost-effective?
+* What is the energy footprint of your design?
+* Is your design sustainable?
+* What is the material life-cycle of your design?
+
+<a name="PROTOTYPING">
+11. PROTOTYPING
+---------------
+</a>
+
+Goal
+----
+
+Developing prototypes that can be tested in the lab and/or field.
+
+Questions to Consider
+---------------------
+
+* What observations have you made about your prototype while in "action"?
+* Did your "users" make any suggestions about the design?
+* Did your "users" make any suggestions about alternative uses for your design?
+
+<a name="CANDIDATES">
+12. SELECTION OF CANDIDATE DESIGNS
+----------------------------------
+</a>
+
+Goal
+----
+
+Selection of (three) candidate designs.
+
+Questions to Consider
+---------------------
+
+* What are the projected lifetime of use and utility of the candidate designs?
+* Are they all equally easy to maintain?
+* Can they be repaired? By whom?
+* Can they be reused or repurposed?
+* Are there environmental constraints on their operation?
+* Are they all suitable and safe for young children?
+
+<a name="FINALIZATION">
+13. FINALIZATION OF DESIGN
+--------------------------
+</a>
+
+Goal
+----
+
+Finalization of a design for manufacturing.
+
+Questions to Consider
+---------------------
+
+* What constraints does manufacturing put on your design?
+* What compromises must you make in light of these constraints?
+* Are there established design/manufacturing practices to which you can adhere?
+
+<a name="PRODUCTION">
+14. RECOMMENDATIONS FOR PRODUCTION
+----------------------------------
+</a>
+
+Goal
+----
+
+Making design recommendations to production.
+
+Questions to Consider
+---------------------
+
+* Does your design establish clear metrics by which you can measure
+  the quality of production?
+
+<a name="REVIEW">
+15. SOLID-PHASE PROJECT REVIEWS
+-------------------------------
+</a>
+
+Goal
+----
+
+* Final project presentation and critique.
+* Course review and critique.
+
+Questions to Consider
+---------------------
+
+* Is your project ready for manufacturing?
+* What are the next steps for your project?
+* After 15 weeks of iteration, revision, and compromise, is color
+  still in its essence?
+* How has your initial vision of your project changed?
+
+<p align="center">
+<img src="https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png"/>
+</p>
