@@ -40,7 +40,7 @@ The course is broken into two phases: liquid (innovation) and solid
 (consolidation).
 
 Throughout the both phases of the course, students will be working on
-an project of their own choosing. The intent is to offer students the
+a project of their own choosing. The intent is to offer students the
 opportunity to pursue something personally meaningful.
 
 During the *liquid* phase, Weeks 1 through 6, there will be two weekly

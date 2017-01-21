@@ -44,11 +44,11 @@ inclusive graphic design exploration.
 The course is broken into two phases: liquid (innovation) and solid
 (consolidation).
 
-Throughout the both phases of the course, students will be working on
-an project of their own choosing within the context of the "client"
-site. The intent is to offer students the opportunity to pursue
-something personally meaningful while still being responsive to a
-real-world need.
+Students will design a new unique identity and brand system for the
+"client" and use that identity as the basis of a project of their own
+choosing within the context of the "client" site. The intent is to
+offer students the opportunity to pursue something personally
+meaningful while still being responsive to a real-world need.
 
 During the *liquid* phase, Weeks 1 through 6, there will be two weekly
 meetings: (1) a discussion and experiment; and (2) a recitation for
