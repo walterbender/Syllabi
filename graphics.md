@@ -212,8 +212,8 @@ Questions to Consider
 Goal
 ----
 
-Use industry-standard methodologies such as TRIZ, SCAMPER, Design
-Thinking (IDEO), to discover new approaches to your project.
+Use an industry-standard methodology such as TRIZ, SCAMPER, Design
+Thinking (IDEO) to discover new approaches to your project.
 
 Questions to Consider
 ---------------------

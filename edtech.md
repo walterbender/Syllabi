@@ -317,7 +317,9 @@ Goal
 
 Discovery of underlying natural phenomena and principles, i.e., input
 from the natural world: materials, processes, and functions that can
-influence and direct the design choices.
+influence and direct the design choices. Alternatively, use an
+industry-standard methodology such as TRIZ, SCAMPER, Design Thinking
+(IDEO) to discover new approaches to your project.
 
 Questions to Consider
 ---------------------
