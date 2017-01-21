@@ -107,6 +107,7 @@ Suggested Reading
 * D. Hosken, *An Introduction to Music Technology*, Routledge (2014).
 * C. D. Shelton, *Music and the Brain: How Music Changes the Brain*, Choice (2013).
 * C. Harding, *How We Listen Now: Essays and Conversations About Music and Technology*, Create Space (2015).
+* R. W. Duffin, *How Equal Temperament Ruined Harmony (and Why You Should Care)*, Norton, 2007.
 
 <a name="MUSICBLOCKS">
 1. MUSIC BLOCKS
