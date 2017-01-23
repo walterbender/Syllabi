@@ -1,16 +1,6 @@
 ﻿INTRODUCTION TO INDUSTRIAL DESIGN PROCESS
 =========================================
 
-This course covers the technical aspects of color for use in practical
-applications of design. Color is discussed from three distinct points
-of view: human vision, visual processing, and digital displays. Topics
-include the production of color, physiology and psychophysiology of
-color, the sensation of color, color systems, coding and processing,
-color vision, rendering in graphics environments, color as an
-interface, semantics and aesthetics of color.
-
-<img src='https://rawgithub.com/walterbender/Syllabi/master/dimensions-of-color.png'/><br>Copyright CC-By Walter Bender 1996
-
 Instructor
 ----------
 
