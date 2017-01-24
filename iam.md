@@ -3,7 +3,7 @@
 
 This course teaches tools and methods for industrial design and product development. It is the foundation upon which industrial-design students conceive, design, and prototype a physical product. These tools and methods directly apply to advanced design courses and will be expanded upon in the Design Studio courses and industrial-design electives.
 
-<img src='https://rawgithub.com/walterbender/Syllabi/master/woodpecker.jpg'/><br>Copyright CC-By Franco Lodato
+<img src='https://rawgithub.com/walterbender/Syllabi/master/phones-by-Lodato.jpg'/><br>Copyright CC-By Franco Lodato
 
 Instructor
 ----------
