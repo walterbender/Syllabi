@@ -27,13 +27,47 @@ models and how these models are used in to discover engineering,
 architectural, business operations/management, and product-development
 solutions.
 
+Students will develop a clear understanding of biodesign and how it
+may be used to find sustainable solutions to human problems;
+strengthen observation skills through “deep pattern recognition”; hone
+essential communication skills—verbal, written, visual, and
+scientific—through individual and team exercises; develop
+critical-thinking and problem-solving skills; and foster engagement in
+scientific discourse with audiences from non-scientific disciplines
+through real-world experiences.
+
 Approach
 --------
 
+Students will be introduced to the interdisciplinary tool of biodesign
+and provide real-world experiences applying this tool through
+individual and team work.
+
+By the end of the course, students will: 
+* have a solid understanding of biodesign; 
+* be able to explain what biodesign is to a variety of audiences in a
+  clear and concise manner;
+* be able to effectively apply the tool of biodesign to arrive at
+  sustainable design solutions.
 
 Course Organization
 -------------------
 
+The course is broken into two phases: liquid (innovation) and solid
+(consolidation).
+
+Throughout the both phases of the course, students will be working on
+a project of their own choosing. The intent is to offer students the
+opportunity to pursue something personally meaningful.
+
+During the *liquid* phase, Weeks 1 through 6, there will be two weekly
+meetings: (1) a discussion and experiment; and (2) a recitation for
+in-depth review of the material.
+
+During the *solid* phase, Weeks 8 through 15, there will be
+twice-weekly meetings with the design faculty to move through a design
+pipeline, taking the ideas developed in the *liquid* phase into a
+design recommendation for production.
 
 Requirements
 ------------
