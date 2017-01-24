@@ -23,7 +23,7 @@ Spring 2018
 | ----------- | ------------ | ------ | ---------- |
 | SM-102 | 1 | Advising Seminar | Design Faculty |
 | HUM-102 | 3 | Writing Design 2: Effective Speaking and Communication | TBD |
-| ID-102 | 6 | Biodesign: Innovation Inspired by Nature | Franco Lodato |
+| ID-102 | 6 | [Biodesign: Innovation Inspired by Nature](https://github.com/walterbender/Syllabi/blob/master/biomimicry.md) | Franco Lodato |
 | ID-152 | 6 | Design Studio | TBD |
 | ID-201 | 6 | Special Projects in Transportation Design | Camilo Pardo |
 | MATH-401 | 6 | Modeling Big Data | Evan Kodra |
