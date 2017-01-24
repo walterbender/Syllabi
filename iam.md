@@ -1,6 +1,10 @@
 ﻿INTRODUCTION TO INDUSTRIAL DESIGN PROCESS
 =========================================
 
+This course teaches tools and methods for industrial design and product development. It is the foundation upon which industrial-design students conceive, design, and prototype a physical product. These tools and methods directly apply to advanced design courses and will be expanded upon in the Design Studio courses and industrial-design electives.
+
+<img src='https://rawgithub.com/walterbender/Syllabi/master/woodpecker.jpg'/><br>Copyright CC-By Franco Lodato
+
 Instructor
 ----------
 
@@ -74,17 +78,24 @@ Course Outline
 --------------
 
 * Week 1 Introduction to Design Methodology: The IAM Process 
+
 Liquid Phase
 ------------
 * Week 2 Imagine and realize: create ideas and build prototypes.
-* Week 3 Critique and reflect: engage with practitioners in an authentic critical dialogue about the work.
-* Week 4 Iterate: Iteration within the IAM process means returning to ‘Step One’ to push our ideas further.
-* Week 5 Document and Select: Prepare documentation for problem definition in the Solid Phase.
+* Week 3 Critique and reflect: engage with practitioners in an
+  authentic critical dialogue about the work.
+* Week 4 Iteration within the IAM process to push our ideas further.
+* Week 5 Document and Select: Prepare documentation for problem
+  definition in the Solid Phase.
+
 Solid Phase
 -----------
-* Week 6 Problem definition, a synthesis of an interim output of the liquid phase with a real-world problem;
-* Week 7 Consolidation: of the concepts through a process of sketches, layout, functional and material design, and cost analysis;
-* Week 8 Technical feasibility and product relevance, which may result in our revisiting the problem definition;
+* Week 6 Problem definition, a synthesis of an interim output of the
+  liquid phase with a real-world problem;
+* Week 7 Consolidation: of the concepts through a process of sketches,
+  layout, functional and material design, and cost analysis;
+* Week 8 Technical feasibility and product relevance, which may result
+  in our revisiting the problem definition;
 * Week 9 Prototyping;
 * Week 10 Selection of (three) candidate designs;
 * Week 11 Finalization of a design for manufacturing (mechanical designs);
@@ -96,9 +107,22 @@ Solid Phase
 Grading
 -------
 
+* Attendance and class participation (15%)
+* Liquid Phase (30%)
+* Journal (15%)
+* Solid Phase (project development and final presentation) (40%)
+
 Suggested Reading
 -----------------
 
+* N. Cross, Design Thinking: Understanding How Designers Think and
+  Work, Bloomsbury (2011).
+* J Heskett, *Design: A Very Short Introduction*, Oxford University
+  Press (2005)
+* W. McDonough and M. Braungart, *Cradle To Cradle*, Farrar, Straus
+  and Giroux (2002).
+* V. Papanek, *Design for the Real World: Human Ecology and Social
+  Change*, Academy Chicago Publishers (2009).
 
 <p align="center">
 <img src="https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png"/>
