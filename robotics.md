@@ -332,7 +332,7 @@ Questions to Consider
 Suggested Reading
 -----------------
 
-* j. Bernsen *Bionics in Action: The Design Work of Franco Lodato*,
+* J. Bernsen, *Bionics in Action: The Design Work of Franco Lodato*,
   StoryWorks DK (2004).
 * F Wilczek, *A Beautiful Question: Finding Nature's Deep Design*,
   Penguin (2015).

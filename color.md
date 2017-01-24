@@ -251,7 +251,7 @@ Find unique green.
 Questions to Consider
 ---------------------
 
-* What is the "Opponent Theory* and what are its implications?
+* What is the "Opponent Theory" and what are its implications?
 * Is unique green the same across the population.
 * What are the implications of this result?
 
@@ -421,7 +421,7 @@ Questions to Consider
 Suggested Reading
 -----------------
 
-* j. Bernsen *Bionics in Action: The Design Work of Franco Lodato*,
+* J. Bernsen, *Bionics in Action: The Design Work of Franco Lodato*,
   StoryWorks DK (2004).
 * F Wilczek, *A Beautiful Question: Finding Nature's Deep Design*,
   Penguin (2015).

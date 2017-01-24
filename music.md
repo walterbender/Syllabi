@@ -264,7 +264,7 @@ Suggested Reading
 * D. Deutsch, Music Perception, *Frontiers of Bioscience* (2007)
 * A. Trafton, "How the brain perceives rhythm", *MIT Brain and Cognitive Sciences News* (2017) [https://bcs.mit.edu/news-events/news/how-brain-perceives-rhythm]
 * M. Gonick, "Are musical tastes cultural or hardwired in the brain?, *MIT Brain and Cognitive Sciences News* (2016) [https://bcs.mit.edu/news-events/media/are-musical-tastes-cultural-or-hardwired-brain]
-* A. Trafton, "Why we like music", *MIT Brain and Cognitive Sciences New* (2015) [https://bcs.mit.edu/news-events/news/why-we-music-we-do]
+* A. Trafton, "Why we like music", *MIT Brain and Cognitive Sciences News* (2015) [https://bcs.mit.edu/news-events/news/why-we-music-we-do]
 * A. Trafton, "Music in the brain", *MIT Brain and Cognitive Sciences News* (2015) [https://bcs.mit.edu/news-events/news/music-brain]
 
 <a name="INSTRUMENTATION">
@@ -357,7 +357,7 @@ Questions to Consider
 Suggested Reading
 -----------------
 
-* j. Bernsen *Bionics in Action: The Design Work of Franco Lodato*,
+* J. Bernsen, *Bionics in Action: The Design Work of Franco Lodato*,
   StoryWorks DK (2004).
 * F Wilczek, *A Beautiful Question: Finding Nature's Deep Design*,
   Penguin (2015).
