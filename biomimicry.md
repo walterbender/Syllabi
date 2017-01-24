@@ -23,7 +23,7 @@ Objective
 This class will explore past, present, and future examples of
 biodesign solutions to human problems. We will learn how experts in
 the field of biodesign use organisms and ecosystems of nature as
-models and how these models are used in to discover engineering,
+models and how these models are used to discover engineering,
 architectural, business operations/management, and product-development
 solutions.
 
