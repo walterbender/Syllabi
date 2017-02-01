@@ -58,7 +58,7 @@ Course Organization
 -------------------
 
 Throughout the course, students will work on a small hand tool, e.g.,
-a screwdriver, hammer, or handsaw.
+a screwdriver, hammer, or hand saw.
 
 Students will progress through the course through two phases: liquid
 (innovation) and solid (consolidation).
@@ -138,7 +138,7 @@ Suggested Reading
 ----------------------------------------
 </a>
 
-In Week 1, students will be presented an overiew of biodesign and they
+In Week 1, students will be presented an overview of biodesign and they
 will engage in a class discussion of how to derive design input from
 nature. They will be presented with the design challenge for the
 course is to develop a bionics solution for a hand tool. Students will
@@ -156,7 +156,7 @@ Student will identify the functions that their designs will need to
 perform. Students will translate the functions from their initial
 concepts into an analog from the biological world. Students will
 conduct field research from the topic selected (e.g., a hammer is
-analogus to a woodpecker beak; a saw is analogous to praying mantis
+analogous to a woodpecker beak; a saw is analogous to praying mantis
 claws). Students are encouraged to engage in brainstorming sessions
 with their peers.
 
@@ -165,7 +165,7 @@ with their peers.
 ----------------------
 </a>
 
-Students will translate those functions idenitified in Week 2 into
+Students will translate those functions identified in Week 2 into
 words or terms that make sense to the industrial designer During these
 sessions, students will generate a set of design solutions ranging
 from radical to traditional; develop specific concepts and narrow
