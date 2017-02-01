@@ -22,8 +22,8 @@ Objective
 
 This course will explore past, present, and future examples of
 biodesign solutions to human problems. We will learn how experts in
-the field of biodesign use organisms and ecosystems of nature as
-models and how these models are used to discover engineering,
+the field of biodesign use organisms and ecosystems from nature as
+models, and how these models are used to discover engineering,
 architectural, business management and operations, and
 product-development solutions.
 
@@ -140,7 +140,7 @@ Suggested Reading
 In Week 1, students will be presented an overview of biodesign and they
 will engage in a class discussion of how to derive design input from
 nature. They will be presented with the design challenge for the
-course is to develop a bionics solution for a hand tool. Students will
+course, which is to develop a bionics solution for a hand tool. Students will
 work in groups to explore the breadth of the assigned topic, creating
 a product, idea, or concept. During these initial sessions, students
 will aim to identify and select examples of nature, brainstorm ideas,
@@ -242,7 +242,7 @@ challenge. This will also include: open parameters for their designs
 such as risk analysis, structure, materials, and preliminary
 manufacturing considerations. In the second session, they will
 develop a more detailed and refined solution that will be discussed as
-a group to prepare for the consolidation phase.
+a group to prepare for the technical-feasibility phase.
 
 <a name="WEEK8">
 8. TECHNICAL FEASIBILITY
@@ -288,9 +288,15 @@ analysis, and a working prototype.
 
 During both sessions, students will engage in finalizing their working
 design, documenting technical aspects of the project such as:
-dimensions, tech drawings, CAD files, assembly instructions, market
-cost, bill of materials (BOM), multi-view orthographic layouts. ID
-will be defined for all components: refined product graphics and
+* dimensions,
+* tech drawings,
+* CAD files,
+* assembly instructions,
+* market cost,
+* bill of materials (BOM), and
+* multi-view orthographic layouts.
+
+ID will be defined for all components: refined product graphics and
 product-name placement graphics as required for the development of a
 consistent interface and interaction with the product line CMF
 document (Color, Materials and Finishes/Texture) specifications.
