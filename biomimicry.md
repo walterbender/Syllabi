@@ -82,11 +82,10 @@ Methodologies is a prerequisite to Biodesign.
 Course Outline
 --------------
 
-* [Week 1](#WEEK1) &ndash; Introduction to Biodesign Methodology: Input from nature.
-
 Liquid Phase
 ------------
 
+* [Week 1](#WEEK1) &ndash; Introduction to Biodesign Methodology: Input from nature.
 * [Week 2](#WEEK2) &ndash; Identification Step: identify the functions that your
   design needs to perform;
 * [Week 3](#WEEK3) &ndash; Implementation Step: translate those functions into
