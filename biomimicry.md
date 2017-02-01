@@ -1,8 +1,8 @@
 ﻿BIODESIGN: INNOVATION INSPIRED BY NATURE
 ========================================
 
-Biodesign is the discipline of study of best design ideas from the
-natural world and how to imitate and utilize these designs to solve
+Biodesign is the discipline of the study of best design ideas from the
+natural world and how to imitate and utilize those designs to solve
 human problems. The core idea of biodesign is that nature,
 “imaginative” by necessity, has already solved many of the problems we
 are grappling with. Animals, plants, and microbes are the consummate
@@ -24,8 +24,8 @@ This course will explore past, present, and future examples of
 biodesign solutions to human problems. We will learn how experts in
 the field of biodesign use organisms and ecosystems of nature as
 models and how these models are used to discover engineering,
-architectural, business operations/management, and product-development
-solutions.
+architectural, business management and operations, and
+product-development solutions.
 
 Students will develop a clear understanding of biodesign and how it
 may be used to find sustainable solutions to human problems;
@@ -42,7 +42,7 @@ Approach
 Students will be introduced to the interdisciplinary technique of
 biodesign and be provided with real-world experiences applying this
 technique through individual and team work. The course focuses on the
-design of hand tools as an lens into our exploration of design
+design of hand tools as a lens into our exploration of design
 solutions in nature. Students will work on a project of their own
 choosing within the category of hand tools, perhaps a screwdriver, a
 hammer, a saw, or some other tool invention.
@@ -58,7 +58,7 @@ Course Organization
 -------------------
 
 Throughout the course, students will work on a small hand tool, e.g.,
-a screwdriver, hammer, handsaw, et al.
+a screwdriver, hammer, or handsaw.
 
 Students will progress through the course through two phases: liquid
 (innovation) and solid (consolidation).
@@ -138,11 +138,12 @@ Suggested Reading
 ----------------------------------------
 </a>
 
-In Week 1, students will be presented an overiew and discussion of how
-to derive design input from nature.  The design challenge for the
+In Week 1, students will be presented an overiew of biodesign and they
+will engage in a class discussion of how to derive design input from
+nature. They will be presented with the design challenge for the
 course is to develop a bionics solution for a hand tool. Students will
 work in groups to explore the breadth of the assigned topic, creating
-a product, idea, or concept from it.  During these sessions, students
+a product, idea, or concept. During these initial sessions, students
 will aim to identify and select examples of nature, brainstorm ideas,
 and generate initial concepts from them.
  
@@ -151,42 +152,42 @@ and generate initial concepts from them.
 ----------------------
 </a>
 
-Student will identify the functions that their designs needs to
-perform.  This week the students will translate the functions from
-their initial concepts into words or terms that make sense in the
-biological world.  During these sessions, students will conduct field
-research from the topic selected (i.e., a hammer is analogus to a
-woodpecker beak, a saw ins analogous to praying mantis claws), and are
-encouraged to engage in brainstorming sessions with other students.
+Student will identify the functions that their designs will need to
+perform. Students will translate the functions from their initial
+concepts into an analog from the biological world. Students will
+conduct field research from the topic selected (e.g., a hammer is
+analogus to a woodpecker beak; a saw is analogous to praying mantis
+claws). Students are encouraged to engage in brainstorming sessions
+with their peers.
 
 <a name="WEEK3">
 3. IMPLEMENTATION STEP
 ----------------------
 </a>
 
-Students will translate those functions they idenitified in Week 2
-into words or terms that make sense to the industrial designer During
-these sessions, students will generate a set of design solutions
-ranging from radical to traditional; develop specific concepts and
-make a selection down to two or three concept designs.
+Students will translate those functions idenitified in Week 2 into
+words or terms that make sense to the industrial designer During these
+sessions, students will generate a set of design solutions ranging
+from radical to traditional; develop specific concepts and narrow
+their selections to two or three concept designs.
 
 <a name="WEEK4">
 4. DISCOVERY STEP
 -----------------
 </a>
 
-In the Discovery Step: students identify strategies that nature uses
-to accomplish these functions.  Students will develop the strategies
-they have discovered into ideas to specify design criteria and emulate
-those strategies in a design solution.
+In the Discovery Step, students identify strategies that nature uses
+to accomplish those functions identified in Week 3. Students will
+develop the strategies they have discovered into ideas to specify
+design criteria and emulate those strategies in a design solution.
 
 Students will revisit their own ideas, and with the input of external
-experts (a biologist and a mechanical engineer) they will continue to
-define a more accurate solution based on their critiques (i.e: cost,
-form, materials, functionality, etc.) adding all the different
-constraints related to the product, in order to generate a more
-accurate problem definition to develop in the Solid phase. All of this
-will be achieved using brainstorming techniques worked on as a group.
+experts (including a biologist and a mechanical engineer) they will
+continue to define a more accurate solution based on their critiques
+(e.g., cost, form, materials, functionality, etc.) adding all the
+different constraints related to the product, in order to generate a
+more accurate problem definition to develop in the Solid Phase. This
+will be achieved using group brainstorming sessions.
 
 <a name="WEEK5">
 5. ABSTRACT STEP
@@ -197,16 +198,15 @@ Students will translate the strategies they have discovered from
 nature into ideas to specify design criterias and emulate those
 strategies in a design solution.
 
-During the first session students have the option of working
-individually or in teams of 2 to 3 members. Students will collect and
-prepare all the information that has been generated individually and
-in the groups in order to define their own personal sketch log, which
-will be the basis for their projects in the solid phase of the
-course. The sketch log may be created in any one of a number of
-formats that can be presented to the class (slides, graphics,
-renderings, models, etc.).
+Students have the option of working individually or in teams of two to
+three members. Students will collect and prepare all the information
+that has been generated individually and in the groups in order to
+define their own personal sketch log, which will be the basis for
+their projects in the Solid Phase of the course. The sketch log may be
+created in any one of a number of formats that can be presented to the
+class (slides, graphics, renderings, models, etc.).
 
-Solid phase
+Solid Phase
 -----------
 
 During this phase of the course students will work on refining the
@@ -219,12 +219,12 @@ their process in small groups.
 ---------------------
 </a>
 
-Students will make a synthesis of an interim output of the liquid
-phase with a real-world problem; For the first session, students will
+Students will make a synthesis of an interim output of the Liquid
+Phase with a real-world problem; For the first session, students will
 work in groups to prepare their own product definition for their
 selected hand tool. They will work as a group defining details and
 constraints for their specific challenge (i.e. current market trends
-and solutions, different materials, R&D, etc).  In the second session,
+and solutions, different materials, R&D, etc). In the second session,
 they will finalize and define their problem with a project brief which
 will include: design criteria, constraints, market analysis, technical
 details such as weight and cost of their product. It will also include
@@ -241,7 +241,7 @@ For the first session, students will engage in a brainstorming session
 to define a preliminary configuration of proposed solutions to the
 challenge. This will also include: open parameters for their designs
 such as risk analysis, structure, materials, and preliminary
-manufacturing considerations.  In the second session, they will
+manufacturing considerations. In the second session, they will
 develop a more detailed and refined solution that will be discussed as
 a group to prepare for the consolidation phase.
 
@@ -253,11 +253,11 @@ a group to prepare for the consolidation phase.
 Students will investigate technical feasibility and product relevance,
 which may result in our revisiting the problem definition; In the
 first session, groups peer-review the class’ work, selecting the best
-2 or 3 proposals from each team and begin early steps of prototyping.
-In the second session, groups will re-evaluate the early prototypes
-and select the best option for the students to continue preparing
-their newer prototypes. It may be possible that a team’s design needs
-to be re-made, setting the process back to Week 6.
+two or three proposals from each team and begin early steps of
+prototyping.  In the second session, groups will re-evaluate the early
+prototypes and select the best option for the students to continue
+preparing their newer prototypes. It may be possible that a team’s
+design needs to be re-made, setting the process back to Week 6.
 
 <a name="WEEK9">
 9. PROTOTYPING
@@ -304,7 +304,7 @@ document (Color, Materials and Finishes/Texture) specifications.
 
 During both sessions, students will be finalizing their working
 design, perfecting and polishing their product to make it
-aesthetically pleasing and professional.  The aesthetic models
+aesthetically pleasing and professional. The aesthetic models
 developed will also address design language opportunities, function,
 user interface, materials and human factors.
 
@@ -314,11 +314,11 @@ user interface, materials and human factors.
 -----------------------------------------------
 </a>
 
-In the first session, groups will engage in peer-review their class
-work, helping students polish their projects before their final
-presentations. The faculty member will also provide professional
-feedback on their solutions and suggest any last-minute
-recommendations prior to the final presentation.
+Student groups will engage in peer-review their class work, helping
+students polish their projects before their final presentations. The
+faculty member will also provide professional feedback on their
+solutions and suggest any last-minute recommendations prior to the
+final presentation.
 
 
 <a name="WEEK14">
@@ -326,9 +326,8 @@ recommendations prior to the final presentation.
 -------------------------------
 </a>
 
-Students are not required to attend this session and will instead use
-this time to rehearse and polish their presentations on their own
-time.
+Students will use this time to rehearse and polish their
+presentations.
 
 <a name="WEEK15">
 15. FINAL PRESENTATIONS
