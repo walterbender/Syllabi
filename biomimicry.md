@@ -132,6 +132,9 @@ Suggested Reading
 * J. Benyus, *Bimomicry: Innovation Inspired by Nature* William Morrow ( 1997)
 * Y. Bar-Cohen, *Biomimetics: Biological Inspired Technologies*, CRC Press (2006)
 
+Liquid Phase
+------------
+
 <a name="WEEK1">
 1. INTRODUCTION TO BIODESIGN METHODOLOGY
 ----------------------------------------
