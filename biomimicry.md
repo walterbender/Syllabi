@@ -165,17 +165,17 @@ with their peers.
 </a>
 
 Students will translate those functions identified in Week 2 into
-words or terms that make sense to the industrial designer During these
+words or terms that make sense to the industrial designer. During these
 sessions, students will generate a set of design solutions ranging
 from radical to traditional; develop specific concepts and narrow
-their selections to two or three concept designs.
+their selections to two concept designs.
 
 <a name="WEEK4">
 4. DISCOVERY STEP
 -----------------
 </a>
 
-In the Discovery Step, students identify strategies that nature uses
+In the Discovery Step, students identify strategies used by nature
 to accomplish those functions identified in Week 3. Students will
 develop the strategies they have discovered into ideas to specify
 design criteria and emulate those strategies in a design solution.
@@ -183,8 +183,8 @@ design criteria and emulate those strategies in a design solution.
 Students will revisit their own ideas, and with the input of external
 experts (including a biologist and a mechanical engineer) they will
 continue to define a more accurate solution based on their critiques
-(e.g., cost, form, materials, functionality, etc.) adding all the
-different constraints related to the product, in order to generate a
+(e.g., cost, form, materials, functionality, etc.). They will add all the
+different constraints related to the product in order to generate a
 more accurate problem definition to develop in the Solid Phase. This
 will be achieved using group brainstorming sessions.
 
@@ -250,7 +250,7 @@ a group to prepare for the technical-feasibility phase.
 </a>
 
 Students will investigate technical feasibility and product relevance,
-which may result in our revisiting the problem definition; In the
+which may result in our revisiting the problem definition. In the
 first session, groups peer-review the class’ work, selecting the best
 two or three proposals from each team and begin early steps of
 prototyping.  In the second session, groups will re-evaluate the early
@@ -293,13 +293,12 @@ design, documenting technical aspects of the project such as:
 * CAD files,
 * assembly instructions,
 * market cost,
-* bill of materials (BOM), and
+* Bill of Materials (BOM), and
 * multi-view orthographic layouts.
 
-ID will be defined for all components: refined product graphics and
-product-name placement graphics as required for the development of a
-consistent interface and interaction with the product line CMF
-document (Color, Materials and Finishes/Texture) specifications.
+Industrial Design will be defined for all components: refined product graphics and
+product-name placement as required for the development of a
+consistent interface and interaction with the product line Color, Materials and Finishes/Texture (CMF) document specifications.
 
 
 <a name="WEEK12">
@@ -307,7 +306,7 @@ document (Color, Materials and Finishes/Texture) specifications.
 --------------------
 </a>
 
-During both sessions, students will be finalizing their working
+During both sessions, students will finalize their working
 design, perfecting and polishing their product to make it
 aesthetically pleasing and professional. The aesthetic models
 developed will also address design language opportunities, function,
@@ -319,7 +318,7 @@ user interface, materials and human factors.
 -----------------------------------------------
 </a>
 
-Student groups will engage in peer-review their class work, helping
+Student groups will engage in peer-review of their class work, helping
 students polish their projects before their final presentations. The
 faculty member will also provide professional feedback on their
 solutions and suggest any last-minute recommendations prior to the
