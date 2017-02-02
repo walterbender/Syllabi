@@ -183,10 +183,10 @@ design criteria and emulate those strategies in a design solution.
 Students will revisit their own ideas, and with the input of external
 experts (including a biologist and a mechanical engineer) they will
 continue to define a more accurate solution based on their critiques
-(e.g., cost, form, materials, functionality, etc.). They will add all the
-different constraints related to the product in order to generate a
-more accurate problem definition to develop in the Solid Phase. This
-will be achieved using group brainstorming sessions.
+(e.g., cost, form, materials, functionality, etc.). They will add all
+of these different constraints related to the product in order to
+generate a more accurate problem definition to develop in the Solid
+Phase. This will be achieved using group brainstorming sessions.
 
 <a name="WEEK5">
 5. ABSTRACT STEP
@@ -293,13 +293,13 @@ design, documenting technical aspects of the project such as:
 * CAD files,
 * assembly instructions,
 * market cost,
-* Bill of Materials (BOM), and
+* bill of materials (BOM), and
 * multi-view orthographic layouts.
 
-Industrial Design will be defined for all components: refined product graphics and
-product-name placement as required for the development of a
-consistent interface and interaction with the product line Color, Materials and Finishes/Texture (CMF) document specifications.
-
+Industrial Design will be defined for all components: refined product
+graphics and product-name placement as required for the development of
+a consistent interface and interaction with the product line color,
+materials and finishes/texture (CMF) document specifications.
 
 <a name="WEEK12">
 12. AESTHETIC MODELS
@@ -312,7 +312,6 @@ aesthetically pleasing and professional. The aesthetic models
 developed will also address design language opportunities, function,
 user interface, materials and human factors.
 
-
 <a name="WEEK13">
 13. MAKING DESIGN RECOMMENDATIONS TO PRODUCTION
 -----------------------------------------------
@@ -323,7 +322,6 @@ students polish their projects before their final presentations. The
 faculty member will also provide professional feedback on their
 solutions and suggest any last-minute recommendations prior to the
 final presentation.
-
 
 <a name="WEEK14">
 14. PREPARE FINAL PRESENTATIONS
