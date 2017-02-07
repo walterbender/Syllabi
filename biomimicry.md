@@ -197,7 +197,7 @@ Phase. This will be achieved using group brainstorming sessions.
 </a>
 
 Students will translate the strategies they have discovered from
-nature into ideas to specify design criterias and emulate those
+nature into ideas to specify design criteria and emulate those
 strategies in a design solution.
 
 Students have the option of working individually or in teams of two to
