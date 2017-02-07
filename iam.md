@@ -112,8 +112,10 @@ Solid Phase
   may result in our revisiting the problem definition;
 * [Week 9](#WEEK9) Prototyping;
 * [Week 10](#WEEK10) Selection of (two) candidate designs;
-* [Week 11](#WEEK11) Finalization of a design for manufacturing (mechanical designs);
-* [Week 12](#WEEK12) Finalization of a design for manufacturing (aesthetic models);
+* [Week 11](#WEEK11) Finalization of a design for manufacturing
+  (mechanical designs);
+* [Week 12](#WEEK12) Finalization of a design for manufacturing
+  (aesthetic models);
 * [Week 13](#WEEK13) Making design recommendations to production;
 * [Week 14](#WEEK14) Prepare final presentations;
 * [Week 15](#WEEK15) Final Presentations
@@ -318,13 +320,18 @@ analysis, and a working prototype.
 During both sessions, students will engage in finalizing their working
 design, documenting technical aspects of the project such as:
 
-Dimensions, tech drawings, CAD files, assembly instructions, market
-cost BOM.  Multi-view orthographic layouts, with defined ID for all
-components Refined product graphics and product name placement
+* dimensions,
+* tech drawings,
+* CAD files,
+* assembly instructions,
+* market cost,
+* bill of materials (BOM), and
+* multi-view orthographic layouts.
 
-Graphics as required for the development of a consistent interface and
-interaction with the product line CMF document (Color, Materials and
-Finishes/Texture specifications)
+Industrial Design will be defined for all components: refined product
+graphics and product-name placement as required for the development of
+a consistent interface and interaction with the product line color,
+materials and finishes/texture (CMF) document specifications.
 
 <a name="WEEK12">
 12. FINALIZATION OF A DESIGN FOR MANUFACTURING (AESTHETIC MODELS)
