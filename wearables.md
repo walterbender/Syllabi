@@ -321,19 +321,20 @@ Questions to Consider
 --------------------------------------
 </a>
 
-Students will test their deisng mock-ups, taking into consideration
+Students will test their design mock-ups, taking into consideration
 size and proportion.
 
-Students will have the opportunity to present to
-a panel composed of faculty, field experts, and peers. Students are
-expected to present their sketch log books, and have a formal
-presentation prepared showing initial research, concept art, product
-analysis, and a working prototype.
+Students will have the opportunity to present to a panel composed of
+faculty, field experts, and peers. Students are expected to present
+their sketch log books, and have a formal presentation prepared
+showing initial research, concept art, product analysis, and a working
+prototype.
 
 Questions to Consider
 ---------------------
 
-
+* What were the criteria used in your selection of a candidate design?
+* What compromises are you making in your candidate design?
 
 <p align="center">
 <img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-5.png"/>
@@ -344,8 +345,8 @@ Questions to Consider
 ----------------------
 </a>
 
-During both sessions, students will engage in finalizing their working
-design, documenting technical aspects of the project such as:
+Students will engage in finalizing their working design, documenting
+technical aspects of the project such as:
 * dimensions,
 * tech drawings,
 * CAD files,
@@ -367,25 +368,20 @@ Questions to Consider
 --------------------
 </a>
 
-During both sessions, students will finalize their working
-design, perfecting and polishing their product to make it
-aesthetically pleasing and professional. The aesthetic models
-developed will also address design language opportunities, function,
-user interface, materials and human factors.
+During both sessions, students will finalize their working design,
+perfecting and polishing their product to make it aesthetically
+pleasing and professional. The aesthetic models developed will also
+address design language opportunities, function, user interface,
+materials and human factors.
 
-Final CMF choices.
-Mock ups
-3D printed models and/or higher fidelity
-fabricated test models with further detail.
-Ergonomic proof-of-concept.
-Representative of function only.
-Not look-like mock ups.
-
-UI/UX
-Refined AI and visual design for hero flows and
-screens.
-Create short animation if necessary to express
-your concept.
+Student will create:
+* final CMF choices;
+* mock-ups;
+* 3D-printed models and/or high-fidelity fabricated test models with
+  further detail;
+* ergonomic proof-of-concept;
+* refined visual design for HERO flows and screens; and
+* short animation (if necessary to express their concept).
 
 Questions to Consider
 ---------------------
@@ -405,20 +401,21 @@ faculty member will also provide professional feedback on their
 solutions and suggest any last-minute recommendations prior to the
 final presentation.
 
-Final 3D CAD Renderings
-Product rendered in context, on users.
-Product feature detail renderings.
-3D exploded view showing components.
-Hero UI flow shown on product.
-Marketing Launch
-Product name, tag line, logo design, billboard
-comp, brochure comp, website homepage,
-mobile app homepage.
-Product Details
-Product Bill of Materials (BOM).
-Target MSRP.
-Target sales channels.
-Novel use of technology.
+Student will prepare their final 3D CAD renderings:
+* product rendered in context, on users;
+* product feature detail renderings; and
+* 3D exploded-view showing components.
+
+Students will also prepare:
+* HERO UI-flow shown on product;
+* marketing launch;
+* product name, tag line, logo design, billboard comp, brochure comp,
+  website homepage, mobile-app homepage;
+* product details;
+* product bill of materials (BOM);
+* target MSRP;
+* target sales channels;
+* description of any novel use of technology.
 
 Questions to Consider
 ---------------------
