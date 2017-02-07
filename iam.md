@@ -138,14 +138,10 @@ Suggested Reading
 * V. Papanek, *Design for the Real World: Human Ecology and Social
   Change*, Academy Chicago Publishers (2009).
 
-<p align="center">
-<img src="https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png"/>
-</p>
-
 Liquid Phase
 ------------
 
-< a name="WEEK1">
+<a name="WEEK1">
 1. INTRODUCTION TO DESIGN METHODOLOGY: THE IAM PROCESS
 ------------------------------------------------------
 </a>
@@ -159,7 +155,7 @@ exercise will be followed by a presentation of a product that
 encompasses and exemplifies all the the steps in the IAM process
 design methodology.
 
-< a name="WEEK2">
+<a name="WEEK2">
 2. IMAGINE AND REALIZE
 ----------------------
 </a>
@@ -179,7 +175,7 @@ of possible seating surfaces. In the second class, teams will present
 their concepts and there will be a discussion of the process of idea
 creation.
 
-< a name="WEEK3">
+<a name="WEEK3">
 3. CRITIQUE AND REFLECT
 -----------------------
 </a>
@@ -197,7 +193,7 @@ specific constraints identified by the group. By the end of the week,
 there will be a convergence around one or two possible solutions that
 will be used to properly define the product definition.
 
-< a name="WEEK4">
+<a name="WEEK4">
 4. ITERATION
 ------------
 </a>
@@ -216,7 +212,7 @@ This will be achieved using large group brainstorming techniques, and
 then breaking out into smaller groups to generate more definite ideas
 in 2D and 3D representations.
 
-< a name="WEEK5">
+<a name="WEEK5">
 5. DOCUMENT AND SELECT
 ----------------------
 </a>
@@ -242,7 +238,7 @@ design process. Students will work individually through each step in
 the process. In addition, each week students will collect, reflect
 upon, and analyze their process with the rest of the group.
 
-< a name="WEEK6">
+<a name="WEEK6">
 6. PROBLEM DEFINITION
 ---------------------
 </a>
@@ -262,7 +258,7 @@ market analysis, technical details such as weight and cost off their
 seating surface product. It will also include a program schedule of
 project deliverables and deadlines.
 
-< a name="WEEK7">
+<a name="WEEK7">
 7. CONSOLIDATION
 ----------------
 </a>
@@ -277,7 +273,7 @@ manufacturing considerations.  In the second session, they will
 develop a more detailed and refined solution that will be discussed as
 a group to prepare for the consolidation phase.
 
-< a name="WEEK8">
+<a name="WEEK8">
 8. TECHNICAL FEASIBILITY AND PRODUCT RELEVANCE
 ----------------------------------------------
 </a>
@@ -291,7 +287,7 @@ and select the best option for the teams to continue preparing their
 newer prototypes. It may be possible that a team’s design needs to be
 re-made, setting the process back to week 6.
 
-< a name="WEEK9">
+<a name="WEEK9">
 9. PROTOTYPING
 --------------
 </a>
@@ -303,7 +299,7 @@ others. The goal for this week is to have a functional prototype(s) to
 present for Week 10. If certain students are stuck in redesigning
 their ideas Week 9 can be used as a ‘buffer’ week.
 
-< a name="WEEK10">
+<a name="WEEK10">
 10. SELECTION OF TWO CANDIDATE DESIGNS
 --------------------------------------
 </a>
@@ -314,7 +310,7 @@ expected to present their sketch log books, and have a formal
 presentation prepared showing initial research, concept art, product
 analysis, and a working prototype.
 
-< a name="WEEK11">
+<a name="WEEK11">
 11. FINALIZATION OF A DESIGN FOR MANUFACTURING (MECHANICAL DESIGNS)
 -------------------------------------------------------------------
 </a>
@@ -330,7 +326,7 @@ Graphics as required for the development of a consistent interface and
 interaction with the product line CMF document (Color, Materials and
 Finishes/Texture specifications)
 
-< a name="WEEK12">
+<a name="WEEK12">
 12. FINALIZATION OF A DESIGN FOR MANUFACTURING (AESTHETIC MODELS)
 -----------------------------------------------------------------
 </a>
@@ -341,7 +337,7 @@ pleasing and professional.  The aesthetic models developed will also
 address design language opportunities, function, user interface,
 materials and human factors.
 
-< a name="WEEK13">
+<a name="WEEK13">
 13. MAKING DESIGN RECOMMENDATIONS TO PRODUCTION
 -----------------------------------------------
 </a>
@@ -352,7 +348,7 @@ presentations. The professor will also provide professional feedback
 on their solutions and suggest any last-minute recommendations prior
 to the final presentation.
 
-< a name="WEEK14">
+<a name="WEEK14">
 14. PREPARE FINAL PRESENTATION
 ------------------------------
 </a>
@@ -361,7 +357,7 @@ Students are not required to attend this session and will instead use
 this time to rehearse and polish their presentations on their own
 time.
 
-< a name="WEEK15">
+<a name="WEEK15">
 15. FINAL PRESENTATION
 ----------------------
 </a>
