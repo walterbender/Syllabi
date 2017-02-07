@@ -13,7 +13,7 @@ Objective
 ---------
 
 This course will explore wearables, a subset of design in which the
-This includes "smart watches" that monitor biometrics, exoskeletons
+This includes “smart watches” that monitor biometrics, exoskeletons
 that provide enhanced physical capabilities, to more mundane
 technologies, such as hearing aides and eye glasses. These devices
 have a wide range of applications, from making a fashion statement to
@@ -115,8 +115,8 @@ Suggested Reading
   (2015).
 * S. Watkins and L. Dunne, *Functional Clothing Design: From
   Sportswear to Spacesuits*, Fairchild (2015).
-* J. Paradiso, T. Staner, "Human Generated Power for Mobile
-  Electronics", *Low-Power Electronics Design*, Edited by C. Piguet,
+* J. Paradiso, T. Staner, “Human Generated Power for Mobile
+  Electronics”, *Low-Power Electronics Design*, Edited by C. Piguet,
   CRC Press (2004).
 * J. Gregory, *Sports Medicine: Science, Technology, Engineering*, Scholastic (2016).
 * S. G. Hayes and P. Venkatraman (Editors) *Materials and Technology
@@ -175,7 +175,7 @@ Questions to Consider
 </a>
 
 This week, students define a problem to work on. They do a landscape
-audit and a "persona" development in order to better understand their
+audit and a “persona" development in order to better understand their
 target user. Students will also do an initial technology audit. These
 definitions will be summarized in initial idea sketches.
 
@@ -184,7 +184,7 @@ Questions to Consider
 
 * What is the competitive and comparative landscape within your chosen
   product area?
-* What are some of the "bleeding-edge" manufacturers doing in this area?
+* What are some of the “bleeding-edge” manufacturers doing in this area?
 * Who is in need of this product?
 * Are you meeting a known or unknown but unmet need?
 * What technologies are available as components in your design?
@@ -239,41 +239,61 @@ their process in small groups.
 ------------------------------------------------
 </a>
 
-Concept Sketches
-Hand sketches, broad exploration.
-3D CAD
-
+Students will make a synthesis of an interim output of the Liquid
+Phase with a real-world problem. Students will create concept sketches
+and hand sketches as part of a broad exploration. Students will create
+a “customer journey” map for the product idea.
 
 Questions to Consider
 ---------------------
+
+* What is the problem you are trying to address with your design?
+* Who is the audience?
+* Why is it important to this audience?
+* How does your product address this problem?
 
 <a name="WEEK7">
 7. CONSOLIDATION
 ----------------
 </a>
 
-Initial volume studies only, no details.
-Customer Journey
-Create a customer journey map for the product.
-UI/UX
-Initial UI sketches exploring the user flow.
+Students will consolidate their concepts through a process of
+sketches, layout, functional and material design, and cost analysis.
+
+Students will do initial volume studies only, no details. Students
+will also so initial user-interface (UI) sketches, exploring the flow
+of the user interaction with the design.
 
 Questions to Consider
 ---------------------
+
+* In what ways does your design represent an improvement over the
+  status quo?
+* What compromises (if any) does your design make relative to
+  products currently on the market?
 
 <a name="WEEK8">
 8. TECHNICAL FEASIBILITY
 ------------------------
 </a>
 
-HW Feature Definition
-Input methods: buttons, touch, voice.
-Sensors: Accelerometers, gyroscope, light sensors.
-SW Features Definition
-Contextual awareness, hero apps, AI voice engine.
+Students will investigate technical feasibility and product relevance,
+which may result in revisiting of the problem definition.
+
+In exploring hardware feature definitions, students will choose input
+methods:, e.g., buttons, touch, and voice and sensors, e.g.,
+accelerometers, gyroscope, and light sensors.  In exploring software
+feature definitions, students will concepts such as contextual
+awareness, information architecture, voice engine integration, etc.
+
+Students will re-evaluate their early prototypes and select the best
+options to continue to develop.
 
 Questions to Consider
 ---------------------
+
+* How does the context in which your product will be used impact its
+  feasibility?
 
 <p align="center">
 <img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-4.png"/>
@@ -284,27 +304,36 @@ Questions to Consider
 --------------
 </a>
 
-Refined Concept Renderings
-3D CAD modeling.
-
-Initial Information Architecture (AI).
-If there is a display, create key UI screens (Visual
-Design Language).
+Student will refine their concept renderings by engaging in various
+modeling and prototyping techniques of their choosing, including, but
+not limited to, constructing, 3D printing, wood-working, paper mache,
+etc. The goal for this week is to have a functional prototype(s) to
+present for Week 10. If there is a display, students will create key
+user-interface screens.
 
 Questions to Consider
 ---------------------
+
+* Is there a consistent visual language used throughout your design?
 
 <a name="WEEK10">
 10. SELECTION OF THE CANDIDATE DESIGNS
 --------------------------------------
 </a>
 
-Test Mockups
-Hand carved/assembled or 3D printed volume
-studies to judge size and proportion.
+Students will test their deisng mock-ups, taking into consideration
+size and proportion.
+
+Students will have the opportunity to present to
+a panel composed of faculty, field experts, and peers. Students are
+expected to present their sketch log books, and have a formal
+presentation prepared showing initial research, concept art, product
+analysis, and a working prototype.
 
 Questions to Consider
 ---------------------
+
+
 
 <p align="center">
 <img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-5.png"/>
@@ -315,9 +344,20 @@ Questions to Consider
 ----------------------
 </a>
 
-Renderings
-Refined 3D CAD renderings with details.
-Color Material Finish (CMF) exploration.
+During both sessions, students will engage in finalizing their working
+design, documenting technical aspects of the project such as:
+* dimensions,
+* tech drawings,
+* CAD files,
+* assembly instructions,
+* market cost,
+* bill of materials (BOM), and
+* multi-view orthographic layouts.
+
+Industrial Design will be defined for all components: refined product
+graphics and product-name placement as required for the development of
+a consistent interface and interaction with the product line color,
+materials and finishes/texture (CMF) document specifications.
 
 Questions to Consider
 ---------------------
@@ -326,6 +366,12 @@ Questions to Consider
 12. AESTHETIC MODELS
 --------------------
 </a>
+
+During both sessions, students will finalize their working
+design, perfecting and polishing their product to make it
+aesthetically pleasing and professional. The aesthetic models
+developed will also address design language opportunities, function,
+user interface, materials and human factors.
 
 Final CMF choices.
 Mock ups
@@ -348,13 +394,16 @@ Questions to Consider
 <img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-6.png"/>
 </p>
 
-Questions to Consider
----------------------
-
 <a name="WEEK13">
 13. MAKING DESIGN RECOMMENDATIONS TO PRODUCTION
 -----------------------------------------------
 </a>
+
+Student groups will engage in peer-review of their class work, helping
+students polish their projects before their final presentations. The
+faculty member will also provide professional feedback on their
+solutions and suggest any last-minute recommendations prior to the
+final presentation.
 
 Final 3D CAD Renderings
 Product rendered in context, on users.
@@ -374,21 +423,45 @@ Novel use of technology.
 Questions to Consider
 ---------------------
 
+* Does your design establish clear metrics by which you can measure
+  the quality of production?
+
 <a name="WEEK14">
 14. PREPARE FINAL PRESENTATIONS
 -------------------------------
 </a>
 
+Students will use this time to rehearse and polish their
+presentations.
+
 Questions to Consider
 ---------------------
+
+* Does your presentation clearly articulate the need for your product?
+* Does your presentation clearly articulate the market for your
+  product?
+* Does your presentation clearly articulate the rationale behind your
+  design decisions?
 
 <a name="WEEK15">
 15. FINAL PRESENTATIONS
 -----------------------
 </a>
 
+During both sessions, students will have the opportunity to present to
+a panel composed of faculty, field experts and peers. Students are
+expected to present their sketch log books, and have a formal
+presentation prepared showing initial research, concept art, product
+analysis, and a working prototype.
+
 Questions to Consider
 ---------------------
+
+* Is your project ready for manufacturing?
+* What are the next steps for your project?
+* After 15 weeks of iteration, revision, and compromise, how is
+  wearable technology still in its essence?
+* How has your initial vision of your project changed?
 
 <p align="center">
 <img src="https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png"/>
