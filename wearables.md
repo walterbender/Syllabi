@@ -68,12 +68,35 @@ Liquid Phase
 ------------
 
 * [Week 1](#WEEK1) &ndash; Introduction to Wearables
+* [Week 2](#WEEK2) &ndash; Identification Step: identify the functions that your
+  design needs to perform;
+* [Week 3](#WEEK3) &ndash; Definiton Step: translate those functions into
+  words or terms that define a project;
+* [Week 4](#WEEK4) &ndash; Discovery Step: explore design concepts and strategies;
+* [Week 5](#WEEK5) &ndash; Abstract Step: translate the strategies you have
+  discovered into ideas to specify design criteria and emulate those
+  strategies in your design solution.
 
 Solid Phase
 -----------
 
-* [Week 6](#WEEK6) &ndash; Problem Definition: synthesize the interim output of
-  the liquid phase with a real-world problem;
+* [Week 6](#WEEK6) &ndash; Conceptual Exploration and Problem
+  Definition: synthesize the interim output of the Liquid Phase with a
+  real-world problem;
+* [Week 7](#WEEK7) &ndash; Consolidation: consolidate the concepts through a
+  process of sketches, layouts, functional and material design, and
+  cost analysis; create a customer journey;
+* [Week 8](#WEEK8) &ndash; Technical Feasibility: analyze the feasibility and
+  product relevance, which may result in our revisiting the problem
+  definition;
+* [Week 9](#WEEK9) &ndash; Prototyping;
+* [Week 10](#WEEK10) &ndash; Selection of Candidate Designs; test mock ups;
+* [Week 11](#WEEK11) &ndash; Finalization of a Design for Manufacturing:
+  mechanical designs;
+* [Week 12](#WEEK12) &ndash; Finalization of a Design for Manufacturing:
+  aesthetic models;
+* [Week 13](#WEEK13) &ndash; Making Design Recommendations to Production;
+* [Week 14](#WEEK14) &ndash; Preparation of Final Presentations;
 * [Week 15](#WEEK15) &ndash; Final Presentations.
 
 Grading
@@ -264,6 +287,10 @@ Questions to Consider
 Refined Concept Renderings
 3D CAD modeling.
 
+Initial Information Architecture (AI).
+If there is a display, create key UI screens (Visual
+Design Language).
+
 Questions to Consider
 ---------------------
 
@@ -288,6 +315,10 @@ Questions to Consider
 ----------------------
 </a>
 
+Renderings
+Refined 3D CAD renderings with details.
+Color Material Finish (CMF) exploration.
+
 Questions to Consider
 ---------------------
 
@@ -296,7 +327,19 @@ Questions to Consider
 --------------------
 </a>
 
-Color Material Finish (CMF) exploration.
+Final CMF choices.
+Mock ups
+3D printed models and/or higher fidelity
+fabricated test models with further detail.
+Ergonomic proof-of-concept.
+Representative of function only.
+Not look-like mock ups.
+
+UI/UX
+Refined AI and visual design for hero flows and
+screens.
+Create short animation if necessary to express
+your concept.
 
 Questions to Consider
 ---------------------
@@ -312,6 +355,21 @@ Questions to Consider
 13. MAKING DESIGN RECOMMENDATIONS TO PRODUCTION
 -----------------------------------------------
 </a>
+
+Final 3D CAD Renderings
+Product rendered in context, on users.
+Product feature detail renderings.
+3D exploded view showing components.
+Hero UI flow shown on product.
+Marketing Launch
+Product name, tag line, logo design, billboard
+comp, brochure comp, website homepage,
+mobile app homepage.
+Product Details
+Product Bill of Materials (BOM).
+Target MSRP.
+Target sales channels.
+Novel use of technology.
 
 Questions to Consider
 ---------------------
@@ -331,57 +389,6 @@ Questions to Consider
 
 Questions to Consider
 ---------------------
-
-
-DESIGN
-------
-
-Concept Exploration: Weeks 7 &ndash; 8
-
-
-DESIGN
-------
-Concept Refinement: Weeks 9 &ndash; 10
-Initial Information Architecture (AI).
-If there is a display, create key UI screens (Visual
-Design Language).
-
-
-DEVELOP
--------
-Product Development: Weeks 11 &ndash; 12
-Renderings
-Refined 3D CAD renderings with details.
-Final CMF choices.
-Mock ups
-3D printed models and/or higher fidelity
-fabricated test models with further detail.
-Ergonomic proof-of-concept.
-Representative of function only.
-Not look-like mock ups.
-UI/UX
-Refined AI and visual design for hero flows and
-screens.
-Create short animation if necessary to express
-your concept.
-
-DELIVER
--------
-Final Presentation Pitch: Weeks 13 &ndash; 15
-Final 3D CAD Renderings
-Product rendered in context, on users.
-Product feature detail renderings.
-3D exploded view showing components.
-Hero UI flow shown on product.
-Marketing Launch
-Product name, tag line, logo design, billboard
-comp, brochure comp, website homepage,
-mobile app homepage.
-Product Details
-Product Bill of Materials (BOM).
-Target MSRP.
-Target sales channels.
-Novel use of technology.
 
 <p align="center">
 <img src="https://rawgithub.com/walterbender/Syllabi/master/mcod-jc-small.png"/>
