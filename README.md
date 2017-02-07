@@ -26,8 +26,8 @@ Spring 2018
 | ID-102 | 6 | [Biodesign: Innovation Inspired by Nature](https://github.com/walterbender/Syllabi/blob/master/biomimicry.md) | Franco Lodato |
 | ID-152 | 6 | Design Studio | TBD |
 | ID-201 | 6 | Special Projects in Transportation Design | Camilo Pardo |
-| MATH-401 | 6 | Modeling Big Data | Evan Kodra |
 | ID-202 | 6 | [Special Projects in Wearables](https://github.com/walterbender/Syllabi/blob/master/wearables.md) | Howard Nuk |
-| ENG-302 |6 | Sustainable Design | Iulius Lucaci |
 | ID-208 | 6 | [Music, Mind, and Machine](https://github.com/walterbender/Syllabi/blob/master/music.md) | Walter Bender |
 | ENG-301 | 6 | [Methods of Robotics and Mechatronics Design](https://github.com/walterbender/Syllabi/blob/master/robotics.md) | TBD |
+| ENG-302 |6 | Sustainable Design | Iulius Lucaci |
+| MATH-401 | 6 | Modeling Big Data | Evan Kodra |
