@@ -253,7 +253,7 @@ a group to prepare for the technical-feasibility phase.
 </a>
 
 Students will investigate technical feasibility and product relevance,
-which may result in our revisiting the problem definition. In the
+which may result in revisiting of the problem definition. In the
 first session, groups peer-review the class’ work, selecting the best
 two or three proposals from each team and begin early steps of
 prototyping.  In the second session, groups will re-evaluate the early
