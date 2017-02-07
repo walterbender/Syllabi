@@ -17,10 +17,10 @@ This includes "smart watches" that monitor biometrics, exoskeletons
 that provide enhanced physical capabilities, to more mundane
 technologies, such as hearing aides and eye glasses. These devices
 have a wide range of applications, from making a fashion statement to
-impacting health and wellbeing to enhancing interdevice and
-interpersonnel communication. Student in the course will consider the
+impacting health and well being to enhancing inter-device and
+inter-personnel communication. Student in the course will consider the
 design challenges specific to wearable technologies, including such
-issues as parasidic power, weight, comfort, durability, etc.
+issues as parasitic power, weight, comfort, durability, etc.
 
 Approach
 --------
@@ -35,7 +35,7 @@ By the end of the course, students will:
 * have a solid understanding of wearable design and technology;
 * be able to determine when a wearable-technology solution is an
   appropriate design choice;
-* be cogniscant of the various design trade-offs that are specific to
+* be cognizant of the various design trade-offs that are specific to
   wearables.
 
 Course Organization
@@ -139,7 +139,7 @@ Questions to Consider
 * Where are the most valuable opportunities for wearables to make a
   business impact?
 * What present-day technologies present opportunities for leveraging?
-* What technolgoies on the horizon present future opportunies that
+* What technologies on the horizon present future opportunities that
   should be considered?
 
 <p align="center">
@@ -164,7 +164,7 @@ Questions to Consider
 * What are some of the "bleeding-edge" manufacturers doing in this area?
 * Who is in need of this product?
 * Are you meeting a known or unknown but unmet need?
-* What technologies are available as components in your deisgn?
+* What technologies are available as components in your design?
 * What services will run on this product (if any)?
 
 <a name="WEEK4">
@@ -353,12 +353,12 @@ Product Development: Weeks 11 &ndash; 12
 Renderings
 Refined 3D CAD renderings with details.
 Final CMF choices.
-Mockups
+Mock ups
 3D printed models and/or higher fidelity
 fabricated test models with further detail.
 Ergonomic proof-of-concept.
 Representative of function only.
-Not look-like mockups.
+Not look-like mock ups.
 UI/UX
 Refined AI and visual design for hero flows and
 screens.
