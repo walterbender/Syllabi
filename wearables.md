@@ -143,7 +143,7 @@ wearable technology.
 Questions to Consider
 ---------------------
 * What is a Wearable?
-* What needs to wearables address?
+* What needs do wearables address?
  
 <a name="WEEK2">
 2. IDENTIFICATION STEP
