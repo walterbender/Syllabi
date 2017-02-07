@@ -100,7 +100,7 @@ Solid Phase
 -----------
 
 * [Week 6](#WEEK6) &ndash; Problem Definition: synthesize the interim output of
-  the liquid phase with a real-world problem;
+  the Liquid Phase with a real-world problem;
 * [Week 7](#WEEK7) &ndash; Consolidation: consolidate the concepts through a
   process of sketches, layouts, functional and material design, and
   cost analysis;
