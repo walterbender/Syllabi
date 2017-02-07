@@ -13,7 +13,7 @@ Fall 2017
 | ENG-102 | 6 | Introduction to Rapid Prototyping Methods | TBD |
 | ID-150 | 6 | Design Studio | TBD |
 | ID-210 | 6 | [Information Graphics](https://github.com/walterbender/Syllabi/blob/master/graphics.md) | Jon Craine |
-| ID-204 | 6 | [Educational Technology](https://github.com/walterbender/Syllabi/blob/master/edtech.md) | Walter Bender and Ann Valente |
+| ID-204 | 6 | [Educational Technology](https://github.com/walterbender/Syllabi/blob/master/edtech.md) | Walter Bender<br>Ann Valente |
 | ID-209 | 6 | [Color and Design](https://github.com/walterbender/Syllabi/blob/master/color.md) | Walter Bender |
 
 Spring 2018
@@ -27,7 +27,7 @@ Spring 2018
 | ID-152 | 6 | Design Studio | TBD |
 | ID-201 | 6 | Special Projects in Transportation Design | Camilo Pardo |
 | MATH-401 | 6 | Modeling Big Data | Evan Kodra |
-| ID-202 | 6 | Special Projects in Wearables | Howard Nuk |
+| ID-202 | 6 | [Special Projects in Wearables](https://github.com/walterbender/Syllabi/blob/master/wearables.md) | Howard Nuk |
 | ENG-302 |6 | Sustainable Design | Iulius Lucaci |
 | ID-208 | 6 | [Music, Mind, and Machine](https://github.com/walterbender/Syllabi/blob/master/music.md) | Walter Bender |
 | ENG-301 | 6 | [Methods of Robotics and Mechatronics Design](https://github.com/walterbender/Syllabi/blob/master/robotics.md) | TBD |
