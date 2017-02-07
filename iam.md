@@ -77,7 +77,7 @@ dialogue promoting the exchange of improvements and alternative
 solutions.
 
 During the Solid phase, Weeks 8 through 15, the design faculty will
-assist the students at they move their project through a design
+assist the students as they move their project through a design
 pipeline, taking the ideas developed in the Liquid phase into a design
 recommendation for production.
 
@@ -152,7 +152,7 @@ in one page the most relevant aspects of their design.  The summaries
 will be socialized in the class and a discussion will ensue about the
 role of sketch logs within the broader IAM design process.  This
 exercise will be followed by a presentation of a product that
-encompasses and exemplifies all the the steps in the IAM process
+encompasses and exemplifies all the steps in the IAM process
 design methodology.
 
 <a name="WEEK2">
@@ -254,7 +254,7 @@ trends and solutions, distinct materials, R&D, etc).
 
 In the second session, they will finalize and define their problem
 with a project brief which will include: design criteria, constraints,
-market analysis, technical details such as weight and cost off their
+market analysis, technical details such as weight and cost of their
 seating surface product. It will also include a program schedule of
 project deliverables and deadlines.
 
@@ -279,7 +279,7 @@ a group to prepare for the consolidation phase.
 </a>
 
 In the first session, groups peer-review the class’ work, selecting
-the best 2 or 3 proposals from each team and begin early steps of
+the best 2 proposals from each team and begin early steps of
 prototyping.
 
 In the second session, groups will re-evaluate the early prototypes
