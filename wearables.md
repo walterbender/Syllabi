@@ -380,7 +380,7 @@ Student will create:
 * 3D-printed models and/or high-fidelity fabricated test models with
   further detail;
 * ergonomic proof-of-concept;
-* refined visual design for HERO flows and screens; and
+* refined visual design for flows and screens; and
 * short animation (if necessary to express their concept).
 
 Questions to Consider
@@ -407,7 +407,7 @@ Student will prepare their final 3D CAD renderings:
 * 3D exploded-view showing components.
 
 Students will also prepare:
-* HERO UI-flow shown on product;
+* UI-flow shown on product;
 * marketing launch;
 * product name, tag line, logo design, billboard comp, brochure comp,
   website homepage, mobile-app homepage;
