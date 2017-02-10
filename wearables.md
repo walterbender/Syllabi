@@ -123,11 +123,6 @@ Suggested Reading
 * S. G. Hayes and P. Venkatraman (Editors) *Materials and Technology
   for Sportswear and Performance Apparel*, CRC Press (2015).
 
-<p align="center">
-<img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-1.png"/>
-</p>
-
-
 Liquid Phase
 ------------
 
@@ -165,10 +160,6 @@ Questions to Consider
 * What present-day technologies present opportunities for leveraging?
 * What technologies on the horizon present future opportunities that
   should be considered?
-
-<p align="center">
-<img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-2.png"/>
-</p>
 
 <a name="WEEK3">
 3. DEFINITION STEP
@@ -231,10 +222,6 @@ design of their wearable. Students will work individually through
 each step in the design process and collect, reflect upon, and analyze
 their process in small groups.
 
-<p align="center">
-<img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-3.png"/>
-</p>
-
 <a name="WEEK6">
 6. CONCEPTUAL EXPLORATION AND PROBLEM DEFINITION
 ------------------------------------------------
@@ -296,10 +283,6 @@ Questions to Consider
 * How does the context in which your product will be used impact its
   feasibility?
 
-<p align="center">
-<img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-4.png"/>
-</p>
-
 <a name="WEEK9">
 9. PROTOTYPING
 --------------
@@ -336,10 +319,6 @@ Questions to Consider
 
 * What were the criteria used in your selection of a candidate design?
 * What compromises are you making in your candidate design?
-
-<p align="center">
-<img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-5.png"/>
-</p>
 
 <a name="WEEK11">
 11. MECHANICAL DESIGNS
@@ -386,10 +365,6 @@ Student will create:
 
 Questions to Consider
 ---------------------
-
-<p align="center">
-<img src="https://rawgithub.com/walterbender/Syllabi/master/nuk-6.png"/>
-</p>
 
 <a name="WEEK13">
 13. MAKING DESIGN RECOMMENDATIONS TO PRODUCTION
