@@ -12,15 +12,16 @@ Design faculty
 Objective
 ---------
 
-This course will explore wearables, a subset of design in which the
-This includes “smart watches” that monitor biometrics, exoskeletons
-that provide enhanced physical capabilities, to more mundane
-technologies, such as hearing aides and eye glasses. These devices
-have a wide range of applications, from making a fashion statement to
-impacting health and well being to enhancing inter-device and
-inter-personnel communication. Student in the course will consider the
-design challenges specific to wearable technologies, including such
-issues as parasitic power, weight, comfort, durability, etc.
+This course will explore wearables, a subset of design in which
+devices can be worn on (or implanted in) the body.  This includes
+“smart watches” that monitor biometrics, exoskeletons that provide
+enhanced physical capabilities, to more mundane technologies, such as
+hearing aides and eye glasses. These devices have a wide range of
+applications, from making a fashion statement to impacting health and
+well being to enhancing inter-device and inter-personnel
+communication. Student in the course will consider the design
+challenges specific to wearable technologies, including such issues as
+parasitic power, weight, comfort, durability, etc.
 
 Approach
 --------
