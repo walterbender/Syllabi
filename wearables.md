@@ -204,8 +204,8 @@ ecosystem of products?
 </a>
 
 Students will take two of the sketches from Week 4 and further develop
-them, while remaining broad. Specify design criteria will be
-identified and incorporating into strategies for design solutions.
+them, while remaining broad. Specific design criteria will be
+identified and incorporated into strategies for design solutions.
 
 Questions to Consider
 ---------------------
@@ -249,7 +249,7 @@ Students will consolidate their concepts through a process of
 sketches, layout, functional and material design, and cost analysis.
 
 Students will do initial volume studies only, no details. Students
-will also so initial user-interface (UI) sketches, exploring the flow
+will also do initial user-interface (UI) sketches, exploring the flow
 of the user interaction with the design.
 
 Questions to Consider
@@ -269,9 +269,9 @@ Students will investigate technical feasibility and product relevance,
 which may result in revisiting of the problem definition.
 
 In exploring hardware feature definitions, students will choose input
-methods:, e.g., buttons, touch, and voice and sensors, e.g.,
+methods:, e.g., buttons, touch, voice and sensors, e.g.,
 accelerometers, gyroscope, and light sensors.  In exploring software
-feature definitions, students will concepts such as contextual
+feature definitions, students will employ concepts such as contextual
 awareness, information architecture, voice engine integration, etc.
 
 Students will re-evaluate their early prototypes and select the best
@@ -288,7 +288,7 @@ Questions to Consider
 --------------
 </a>
 
-Student will refine their concept renderings by engaging in various
+Students will refine their concept renderings by engaging in various
 modeling and prototyping techniques of their choosing, including, but
 not limited to, constructing, 3D printing, wood-working, paper mache,
 etc. The goal for this week is to have a functional prototype(s) to
@@ -433,7 +433,7 @@ Questions to Consider
 * Is your project ready for manufacturing?
 * What are the next steps for your project?
 * After 15 weeks of iteration, revision, and compromise, how is
-  wearable technology still in its essence?
+  wearable technology still in its essence? (I don't understand this question)
 * How has your initial vision of your project changed?
 
 <p align="center">
