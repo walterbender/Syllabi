@@ -432,8 +432,8 @@ Questions to Consider
 
 * Is your project ready for manufacturing?
 * What are the next steps for your project?
-* After 15 weeks of iteration, revision, and compromise, how is
-  wearable technology still in its essence? (I don't understand this question)
+* After 15 weeks of iteration, revision, and compromise, describe how
+  wearable technology is still embodied in your project?
 * How has your initial vision of your project changed?
 
 <p align="center">
